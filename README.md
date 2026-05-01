@@ -317,23 +317,97 @@ save_fig(dashboard_panel, "00_dashboard_panel", w = 14, h = 9)
 ```
 
 <img src="output/figures/00_dashboard_panel.png" alt="Figure 00 - Dashboard Composite">
+---
 
+## 🚀 How to Run
 
-#### 🚀 Comment exécuter le projet
-#### Option A — R (recommandée)
-Rinstall.packages(c("tidyverse", "scales", "lubridate", "ggtext", "patchwork", 
-                   "viridis", "gt", "broom", "ggrepel", "jsonlite", "zoo"))
+### Option A — R (recommended)
+```r
+# Install packages
+install.packages(c("tidyverse","scales","lubridate","ggtext",
+                   "patchwork","viridis","gt","broom","ggrepel","jsonlite"))
 
+# Run analysis
 setwd("project3_meal_r")
 source("R/meal_analysis.R")
 
-#### 📂 Structure du projet
-Bashproject3_meal_r/
+# Render full report
+rmarkdown::render("R/meal_report.Rmd", output_dir = "output/")
+```
+
+### Option B — Python (no R required)
+```bash
+pip install pandas matplotlib scipy numpy
+python3 generate_figures.py
+```
+
+### Output
+```
+output/
+├── figures/
+│   ├── 00_dashboard_panel.png       ← Composite 6-panel dashboard
+│   ├── 01_sector_achievement.png
+│   ├── 02_achievement_heatmap.png
+│   ├── 03_status_distribution.png
+│   ├── 04_vulnerability_gender.png
+│   ├── 05_age_gender_pyramid.png
+│   ├── 06_registration_trend.png
+│   ├── 07_muac_distribution.png
+│   ├── 08_sam_country_comparison.png
+│   ├── 09_muac_age_scatter.png
+│   ├── 10_resolution_time.png
+│   ├── 11_resolution_by_channel.png
+│   └── 12_statistical_tests.png
+└── summary_statistics.json          ← Machine-readable KPIs
+```
+
+---
+
+## 📂 File Structure
+
+```
+project3_meal_r/
+│
 ├── R/
-│   ├── meal_analysis.R          # Analyse complète
-│   └── meal_report.Rmd
-├── data/                        # 4 fichiers CSV
+│   ├── meal_analysis.R         # Full R analysis (ggplot2, tidyverse, broom)
+│   └── meal_report.Rmd         # RMarkdown HTML report
+│
+├── generate_figures.py         # Python fallback — all 13 figures
+│
+├── data/
+│   ├── generate_data.py        # Python data generator
+│   ├── indicators.csv          # 480 rows
+│   ├── beneficiaries.csv       # 1,200 rows
+│   ├── nutrition_screening.csv # 800 rows
+│   └── accountability.csv      # 400 rows
+│
 ├── output/
-│   └── figures/                 # Toutes les figures PNG
-├── generate_figures.py
-└── README.md
+│   ├── figures/                # 13 PNG figures
+│   └── summary_statistics.json
+│
+└── docs/
+    └── README.md               # This file
+```
+
+---
+
+## 🎯 Real-World Relevance
+
+This analysis framework mirrors real MEAL deliverables from:
+- **SPONG/OCHA** — inter-agency indicator reporting (2024–2025)
+- **IRC** — NORAD/GFFO/BHA donor reporting (2023–2024)
+- **MSI/USAID** — TPM performance analysis (2024–2025)
+
+The nutrition analysis follows **WHO IMCI** protocols for MUAC classification and the accountability analysis follows **IASC CHS** standards for feedback mechanism monitoring.
+
+---
+
+## 🤝 Connect
+
+| Channel | Link |
+|---------|------|
+| Email | emi.nabaloum@gmail.com |
+| LinkedIn | [linkedin.com/in/nabaloum-emile](https://linkedin.com) |
+| WhatsApp | +226 67 07 82 76 |
+
+*Part of the [NABALOUM Emile Data Portfolio](../README.md)*
