@@ -4,7 +4,7 @@
 > **Stack :** R (tidyverse · ggplot2 · patchwork · broom · ggtext)  
 > **Figures :** 13 visualisations de qualité publication  
 > **Contexte :** Analyse MEAL sur des programmes humanitaires au Sahel (2023–2024)
-
+<img src="https://github.com/36Nabaloum/MEAL-Impact-Analysis-Dashboard-R-Python/blob/main/project3_dashboard_preview.png" alt="Figure 00 - MEAL Impact Analysis Dashboard — R"> 
 ---
 
 ## 📌 Overview
