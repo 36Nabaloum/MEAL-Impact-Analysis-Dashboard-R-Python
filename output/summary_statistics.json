@@ -1,0 +1,44 @@
+{
+  "indicators": {
+    "total_rows": 480,
+    "mean_achievement": 0.783,
+    "pct_on_track": 0.454,
+    "pct_delayed": 0.088,
+    "sectors": 6,
+    "countries": 4
+  },
+  "beneficiaries": {
+    "total_registered": 1200,
+    "pct_female": 0.597,
+    "pct_children": 0.488,
+    "pct_idp": 0.379
+  },
+  "nutrition": {
+    "total_screened": 800,
+    "sam_rate": 0.309,
+    "mam_rate": 0.166,
+    "oedema_rate": 0.065,
+    "referral_rate": 0.328,
+    "mean_muac": 12.88
+  },
+  "accountability": {
+    "total_feedback": 400,
+    "resolution_rate": 0.78,
+    "mean_days_resolved": 23.2,
+    "critical_cases": 16
+  },
+  "statistical_tests": {
+    "chisq_gender_vuln": {
+      "statistic": 0.958,
+      "pvalue": 0.8113
+    },
+    "anova_muac_country": {
+      "F_stat": 0.137,
+      "pvalue": 0.9377
+    },
+    "kruskal_resolution": {
+      "chi2": 1.557,
+      "pvalue": 0.6692
+    }
+  }
+}

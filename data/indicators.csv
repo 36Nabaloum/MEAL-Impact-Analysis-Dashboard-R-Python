@@ -1,0 +1,481 @@
+IndicatorID,Country,Region,Sector,Donor,Organization,Indicator,Target,Achieved,Quarter,Year,Status
+IND-0001,Burkina Faso,Centre,WASH,GFFO,IRC,Latrines Coverage (%),3177,2287,1,2023,At Risk
+IND-0002,Chad,Lac,Nutrition,USAID,ACF,MUAC Screening Coverage (%),913,686,1,2023,At Risk
+IND-0003,Chad,Lac,Health,USAID,WFP,Skilled Birth Attendance (%),647,518,1,2023,On Track
+IND-0004,Mali,Mopti,Food Security,UNICEF,UNICEF,Cash Transfer Rate (%),3870,2568,1,2023,At Risk
+IND-0005,Niger,Niamey,Nutrition,GFFO,IRC,Referral Rate (%),1722,1403,1,2023,On Track
+IND-0006,Burkina Faso,Sahel,WASH,GFFO,MSF,HH Safe Water Access (%),4902,4460,1,2023,On Track
+IND-0007,Chad,Borkou,Protection,GFFO,ACF,Legal Aid Coverage (%),2755,1547,1,2023,At Risk
+IND-0008,Chad,N'Djamena,Food Security,USAID,UNICEF,HH Food Security Score,3635,2697,1,2023,At Risk
+IND-0009,Burkina Faso,Est,Health,UNICEF,MSF,Consultation Rate (%),4556,2857,1,2023,At Risk
+IND-0010,Niger,Maradi,Shelter,BHA,IRC,Shelter Completion Rate (%),1302,976,1,2023,At Risk
+IND-0011,Niger,Niamey,Shelter,GFFO,UNICEF,Families Sheltered (#),102,61,1,2023,At Risk
+IND-0012,Mali,Bamako,Protection,BHA,WFP,GBV Referral Rate (%),2614,2651,1,2023,On Track
+IND-0013,Burkina Faso,Cascades,Health,NORAD,UNICEF,Consultation Rate (%),1785,1451,1,2023,On Track
+IND-0014,Chad,Kanem,WASH,BHA,WFP,HH Safe Water Access (%),874,786,1,2023,On Track
+IND-0015,Chad,Ouaddai,WASH,UNICEF,UNICEF,HH Safe Water Access (%),2681,2029,1,2023,At Risk
+IND-0016,Mali,Tombouctou,Food Security,BHA,ACF,Cash Transfer Rate (%),1977,2317,1,2023,On Track
+IND-0017,Chad,Ouaddai,Nutrition,GFFO,ACF,SAM Treatment Rate (%),3530,2357,1,2023,At Risk
+IND-0018,Mali,Mopti,Shelter,GFFO,MSF,NFI Kits Distributed (#),4339,4503,1,2023,On Track
+IND-0019,Chad,Borkou,Shelter,USAID,ACF,NFI Kits Distributed (#),4255,2544,1,2023,At Risk
+IND-0020,Chad,Borkou,Shelter,USAID,UNICEF,Families Sheltered (#),1375,1147,1,2023,On Track
+IND-0021,Niger,Diffa,Shelter,UNICEF,UNICEF,Families Sheltered (#),4158,2570,1,2023,At Risk
+IND-0022,Burkina Faso,Sahel,WASH,BHA,MSF,Hygiene Kits Distributed (#),591,326,1,2023,At Risk
+IND-0023,Burkina Faso,Cascades,Nutrition,GFFO,WFP,MUAC Screening Coverage (%),2535,2031,1,2023,On Track
+IND-0024,Niger,Zinder,Food Security,USAID,UNICEF,Cash Transfer Rate (%),4661,4281,1,2023,On Track
+IND-0025,Chad,Borkou,Health,BHA,UNICEF,Vaccination Coverage (%),1723,1624,1,2023,On Track
+IND-0026,Burkina Faso,Est,Nutrition,GFFO,UNICEF,Referral Rate (%),4883,3244,1,2023,At Risk
+IND-0027,Chad,Kanem,WASH,USAID,UNICEF,Latrines Coverage (%),3375,3227,1,2023,On Track
+IND-0028,Burkina Faso,Est,Nutrition,USAID,WFP,MUAC Screening Coverage (%),4127,2957,1,2023,At Risk
+IND-0029,Niger,Diffa,Shelter,USAID,MSF,Shelter Completion Rate (%),3103,3007,1,2023,On Track
+IND-0030,Mali,Bamako,Food Security,NORAD,MSF,Food Ration Coverage (%),2922,1964,1,2023,At Risk
+IND-0031,Niger,Maradi,Nutrition,NORAD,IRC,Referral Rate (%),2693,1991,1,2023,At Risk
+IND-0032,Burkina Faso,Sahel,Food Security,BHA,MSF,HH Food Security Score,3665,3343,1,2023,On Track
+IND-0033,Burkina Faso,Nord,Food Security,BHA,WFP,Cash Transfer Rate (%),3004,1712,1,2023,At Risk
+IND-0034,Mali,Bamako,WASH,BHA,IRC,Hygiene Kits Distributed (#),4182,2100,1,2023,Delayed
+IND-0035,Chad,N'Djamena,WASH,UNICEF,ACF,Hygiene Kits Distributed (#),992,434,1,2023,Delayed
+IND-0036,Mali,Mopti,Food Security,BHA,MSF,Food Ration Coverage (%),570,559,1,2023,On Track
+IND-0037,Chad,Kanem,Health,UNICEF,SPONG,Skilled Birth Attendance (%),1884,1574,1,2023,On Track
+IND-0038,Burkina Faso,Est,Protection,BHA,SPONG,GBV Referral Rate (%),519,513,1,2023,On Track
+IND-0039,Niger,Zinder,Nutrition,UNICEF,MSF,SAM Treatment Rate (%),2292,1614,1,2023,At Risk
+IND-0040,Burkina Faso,Nord,Nutrition,UNICEF,UNICEF,SAM Treatment Rate (%),1240,1353,1,2023,On Track
+IND-0041,Mali,Gao,Protection,GFFO,WFP,GBV Referral Rate (%),885,587,1,2023,At Risk
+IND-0042,Mali,Mopti,Nutrition,BHA,ACF,Referral Rate (%),3092,2300,1,2023,At Risk
+IND-0043,Mali,Tombouctou,Health,NORAD,SPONG,Consultation Rate (%),1468,986,1,2023,At Risk
+IND-0044,Mali,Tombouctou,Health,UNICEF,MSF,Vaccination Coverage (%),1383,1358,1,2023,On Track
+IND-0045,Chad,Borkou,Protection,USAID,UNICEF,GBV Referral Rate (%),1202,1220,1,2023,On Track
+IND-0046,Burkina Faso,Est,Shelter,UNICEF,WFP,Shelter Completion Rate (%),4506,3065,1,2023,At Risk
+IND-0047,Mali,Segou,Health,NORAD,SPONG,Skilled Birth Attendance (%),1052,539,1,2023,Delayed
+IND-0048,Chad,Ouaddai,Nutrition,BHA,ACF,SAM Treatment Rate (%),4878,4797,1,2023,On Track
+IND-0049,Niger,Diffa,Health,USAID,UNICEF,Consultation Rate (%),2236,2457,1,2023,On Track
+IND-0050,Niger,Maradi,Shelter,UNICEF,IRC,NFI Kits Distributed (#),4329,4130,1,2023,On Track
+IND-0051,Burkina Faso,Cascades,WASH,GFFO,IRC,Latrines Coverage (%),1190,674,1,2023,At Risk
+IND-0052,Niger,Niamey,Shelter,UNICEF,WFP,Shelter Completion Rate (%),1082,796,1,2023,At Risk
+IND-0053,Burkina Faso,Centre,Food Security,UNICEF,WFP,Food Ration Coverage (%),4364,2888,1,2023,At Risk
+IND-0054,Burkina Faso,Nord,Food Security,UNICEF,MSF,Food Ration Coverage (%),4302,4644,1,2023,On Track
+IND-0055,Chad,Ouaddai,Protection,NORAD,IRC,Child Protection Cases (#),1639,1469,1,2023,On Track
+IND-0056,Burkina Faso,Centre,Nutrition,UNICEF,UNICEF,MUAC Screening Coverage (%),1272,974,1,2023,At Risk
+IND-0057,Burkina Faso,Sahel,Protection,NORAD,WFP,Child Protection Cases (#),3996,1833,1,2023,Delayed
+IND-0058,Niger,Zinder,Shelter,BHA,IRC,Shelter Completion Rate (%),4992,3879,1,2023,At Risk
+IND-0059,Burkina Faso,Est,Shelter,UNICEF,SPONG,NFI Kits Distributed (#),2449,1613,1,2023,At Risk
+IND-0060,Mali,Segou,WASH,UNICEF,UNICEF,HH Safe Water Access (%),2399,1752,1,2023,At Risk
+IND-0061,Burkina Faso,Est,Shelter,USAID,UNICEF,Families Sheltered (#),2558,1778,2,2023,At Risk
+IND-0062,Niger,Diffa,Shelter,BHA,UNICEF,NFI Kits Distributed (#),2998,2488,2,2023,On Track
+IND-0063,Chad,Lac,Food Security,NORAD,WFP,HH Food Security Score,1393,824,2,2023,At Risk
+IND-0064,Mali,Segou,Food Security,BHA,WFP,HH Food Security Score,4740,3790,2,2023,At Risk
+IND-0065,Burkina Faso,Est,Protection,GFFO,WFP,Child Protection Cases (#),1616,1054,2,2023,At Risk
+IND-0066,Niger,Diffa,Health,NORAD,IRC,Vaccination Coverage (%),4889,4554,2,2023,On Track
+IND-0067,Mali,Mopti,Protection,BHA,WFP,Child Protection Cases (#),3670,2304,2,2023,At Risk
+IND-0068,Mali,Mopti,Health,BHA,ACF,Skilled Birth Attendance (%),166,109,2,2023,At Risk
+IND-0069,Burkina Faso,Centre,Food Security,GFFO,IRC,Food Ration Coverage (%),1985,1799,2,2023,On Track
+IND-0070,Chad,N'Djamena,Nutrition,BHA,SPONG,Referral Rate (%),1210,1014,2,2023,On Track
+IND-0071,Chad,Ouaddai,WASH,NORAD,MSF,HH Safe Water Access (%),3472,3385,2,2023,On Track
+IND-0072,Burkina Faso,Centre,Food Security,GFFO,ACF,Cash Transfer Rate (%),4850,3615,2,2023,At Risk
+IND-0073,Chad,N'Djamena,Shelter,GFFO,WFP,Families Sheltered (#),4629,2794,2,2023,At Risk
+IND-0074,Chad,Ouaddai,Protection,NORAD,UNICEF,Legal Aid Coverage (%),429,331,2,2023,At Risk
+IND-0075,Chad,Ouaddai,Nutrition,NORAD,ACF,Referral Rate (%),3233,2198,2,2023,At Risk
+IND-0076,Burkina Faso,Cascades,Health,USAID,IRC,Vaccination Coverage (%),2662,2224,2,2023,On Track
+IND-0077,Burkina Faso,Nord,Health,BHA,UNICEF,Skilled Birth Attendance (%),1747,1086,2,2023,At Risk
+IND-0078,Niger,Niamey,Shelter,GFFO,IRC,Shelter Completion Rate (%),2478,1837,2,2023,At Risk
+IND-0079,Chad,Kanem,Food Security,BHA,WFP,Cash Transfer Rate (%),1170,1033,2,2023,On Track
+IND-0080,Niger,Zinder,Protection,BHA,SPONG,Legal Aid Coverage (%),721,529,2,2023,At Risk
+IND-0081,Niger,Diffa,Protection,BHA,ACF,GBV Referral Rate (%),3028,2438,2,2023,On Track
+IND-0082,Mali,Segou,Health,UNICEF,WFP,Consultation Rate (%),1266,488,2,2023,Delayed
+IND-0083,Burkina Faso,Sahel,Nutrition,GFFO,MSF,SAM Treatment Rate (%),1090,969,2,2023,On Track
+IND-0084,Mali,Segou,Protection,UNICEF,SPONG,GBV Referral Rate (%),500,391,2,2023,At Risk
+IND-0085,Chad,Ouaddai,Health,NORAD,MSF,Vaccination Coverage (%),297,244,2,2023,On Track
+IND-0086,Burkina Faso,Nord,Nutrition,NORAD,UNICEF,SAM Treatment Rate (%),2860,2709,2,2023,On Track
+IND-0087,Mali,Bamako,Food Security,BHA,MSF,HH Food Security Score,3695,4426,2,2023,On Track
+IND-0088,Niger,Diffa,Shelter,UNICEF,WFP,NFI Kits Distributed (#),2309,1330,2,2023,At Risk
+IND-0089,Chad,Ouaddai,Health,USAID,IRC,Consultation Rate (%),4537,3305,2,2023,At Risk
+IND-0090,Niger,Zinder,Health,GFFO,SPONG,Consultation Rate (%),4516,2732,2,2023,At Risk
+IND-0091,Chad,Lac,Food Security,NORAD,WFP,Food Ration Coverage (%),3941,1289,2,2023,Delayed
+IND-0092,Burkina Faso,Nord,Nutrition,BHA,ACF,MUAC Screening Coverage (%),2214,1385,2,2023,At Risk
+IND-0093,Chad,Borkou,Nutrition,UNICEF,WFP,SAM Treatment Rate (%),1215,894,2,2023,At Risk
+IND-0094,Chad,N'Djamena,Protection,USAID,IRC,GBV Referral Rate (%),819,688,2,2023,On Track
+IND-0095,Chad,Kanem,Food Security,USAID,ACF,Food Ration Coverage (%),3088,3248,2,2023,On Track
+IND-0096,Niger,Diffa,Nutrition,NORAD,WFP,SAM Treatment Rate (%),4011,2721,2,2023,At Risk
+IND-0097,Burkina Faso,Centre,Nutrition,GFFO,UNICEF,SAM Treatment Rate (%),180,152,2,2023,On Track
+IND-0098,Chad,N'Djamena,Health,GFFO,ACF,Vaccination Coverage (%),1043,1018,2,2023,On Track
+IND-0099,Burkina Faso,Nord,Nutrition,BHA,ACF,MUAC Screening Coverage (%),1468,1761,2,2023,On Track
+IND-0100,Burkina Faso,Centre,Nutrition,NORAD,IRC,MUAC Screening Coverage (%),4685,3032,2,2023,At Risk
+IND-0101,Mali,Gao,Nutrition,NORAD,IRC,MUAC Screening Coverage (%),4417,3170,2,2023,At Risk
+IND-0102,Mali,Bamako,Protection,UNICEF,SPONG,Legal Aid Coverage (%),3144,2265,2,2023,At Risk
+IND-0103,Mali,Bamako,Food Security,BHA,WFP,HH Food Security Score,2570,2121,2,2023,On Track
+IND-0104,Mali,Tombouctou,WASH,UNICEF,UNICEF,Latrines Coverage (%),3879,3037,2,2023,At Risk
+IND-0105,Chad,Borkou,WASH,BHA,ACF,Hygiene Kits Distributed (#),4135,3087,2,2023,At Risk
+IND-0106,Chad,Lac,Shelter,USAID,MSF,Families Sheltered (#),1448,759,2,2023,Delayed
+IND-0107,Mali,Mopti,WASH,GFFO,UNICEF,Latrines Coverage (%),409,233,2,2023,At Risk
+IND-0108,Chad,N'Djamena,WASH,NORAD,MSF,HH Safe Water Access (%),1786,1049,2,2023,At Risk
+IND-0109,Chad,Borkou,WASH,USAID,ACF,HH Safe Water Access (%),102,85,2,2023,On Track
+IND-0110,Mali,Segou,Food Security,UNICEF,IRC,Food Ration Coverage (%),995,1013,2,2023,On Track
+IND-0111,Chad,Lac,WASH,BHA,WFP,HH Safe Water Access (%),1642,1890,2,2023,On Track
+IND-0112,Mali,Segou,Protection,UNICEF,WFP,GBV Referral Rate (%),4439,3505,2,2023,At Risk
+IND-0113,Mali,Segou,WASH,UNICEF,SPONG,Latrines Coverage (%),1428,1157,2,2023,On Track
+IND-0114,Niger,Agadez,Food Security,UNICEF,UNICEF,Food Ration Coverage (%),2616,2260,2,2023,On Track
+IND-0115,Niger,Diffa,Shelter,GFFO,SPONG,Families Sheltered (#),2512,1963,2,2023,At Risk
+IND-0116,Niger,Diffa,WASH,NORAD,WFP,Hygiene Kits Distributed (#),2723,853,2,2023,Delayed
+IND-0117,Mali,Gao,Protection,USAID,MSF,GBV Referral Rate (%),3787,3376,2,2023,On Track
+IND-0118,Burkina Faso,Nord,Shelter,UNICEF,ACF,Families Sheltered (#),1842,1651,2,2023,On Track
+IND-0119,Chad,Kanem,Shelter,USAID,MSF,Shelter Completion Rate (%),359,210,2,2023,At Risk
+IND-0120,Mali,Segou,Food Security,GFFO,MSF,Food Ration Coverage (%),2664,2506,2,2023,On Track
+IND-0121,Mali,Mopti,Shelter,USAID,UNICEF,Shelter Completion Rate (%),716,557,3,2023,At Risk
+IND-0122,Burkina Faso,Nord,WASH,BHA,IRC,Latrines Coverage (%),1439,758,3,2023,Delayed
+IND-0123,Burkina Faso,Centre,Nutrition,UNICEF,ACF,MUAC Screening Coverage (%),426,422,3,2023,On Track
+IND-0124,Niger,Diffa,Food Security,USAID,MSF,HH Food Security Score,3357,1560,3,2023,Delayed
+IND-0125,Chad,Borkou,WASH,GFFO,IRC,Hygiene Kits Distributed (#),2350,2258,3,2023,On Track
+IND-0126,Mali,Mopti,Nutrition,USAID,MSF,Referral Rate (%),1510,1104,3,2023,At Risk
+IND-0127,Burkina Faso,Nord,Nutrition,NORAD,WFP,MUAC Screening Coverage (%),2722,1306,3,2023,Delayed
+IND-0128,Chad,Borkou,Protection,GFFO,MSF,Legal Aid Coverage (%),3855,3066,3,2023,At Risk
+IND-0129,Burkina Faso,Sahel,WASH,UNICEF,MSF,Hygiene Kits Distributed (#),4342,3460,3,2023,At Risk
+IND-0130,Niger,Diffa,Nutrition,USAID,WFP,Referral Rate (%),798,508,3,2023,At Risk
+IND-0131,Niger,Diffa,Food Security,BHA,WFP,HH Food Security Score,1675,1413,3,2023,On Track
+IND-0132,Niger,Niamey,Protection,BHA,MSF,GBV Referral Rate (%),436,211,3,2023,Delayed
+IND-0133,Chad,Ouaddai,Protection,USAID,MSF,Legal Aid Coverage (%),1703,1183,3,2023,At Risk
+IND-0134,Chad,Kanem,Health,BHA,WFP,Consultation Rate (%),3002,1523,3,2023,Delayed
+IND-0135,Mali,Bamako,Health,GFFO,MSF,Vaccination Coverage (%),702,551,3,2023,At Risk
+IND-0136,Chad,Kanem,Health,USAID,UNICEF,Consultation Rate (%),1384,992,3,2023,At Risk
+IND-0137,Niger,Agadez,WASH,NORAD,MSF,HH Safe Water Access (%),146,131,3,2023,On Track
+IND-0138,Mali,Tombouctou,Health,GFFO,MSF,Skilled Birth Attendance (%),2534,1358,3,2023,Delayed
+IND-0139,Chad,Kanem,Health,NORAD,MSF,Skilled Birth Attendance (%),2613,2085,3,2023,At Risk
+IND-0140,Burkina Faso,Cascades,Protection,GFFO,ACF,Child Protection Cases (#),3129,3242,3,2023,On Track
+IND-0141,Niger,Agadez,Nutrition,GFFO,WFP,MUAC Screening Coverage (%),154,140,3,2023,On Track
+IND-0142,Mali,Tombouctou,Nutrition,UNICEF,ACF,Referral Rate (%),2780,2477,3,2023,On Track
+IND-0143,Burkina Faso,Centre,Health,BHA,MSF,Vaccination Coverage (%),1727,1235,3,2023,At Risk
+IND-0144,Chad,Lac,Food Security,GFFO,MSF,Food Ration Coverage (%),542,490,3,2023,On Track
+IND-0145,Niger,Zinder,Food Security,GFFO,IRC,Food Ration Coverage (%),2263,1396,3,2023,At Risk
+IND-0146,Chad,N'Djamena,Shelter,USAID,SPONG,NFI Kits Distributed (#),4937,2851,3,2023,At Risk
+IND-0147,Burkina Faso,Cascades,Nutrition,GFFO,WFP,MUAC Screening Coverage (%),2793,1727,3,2023,At Risk
+IND-0148,Niger,Niamey,Shelter,NORAD,SPONG,Shelter Completion Rate (%),3704,2352,3,2023,At Risk
+IND-0149,Mali,Bamako,Nutrition,USAID,WFP,Referral Rate (%),3287,2447,3,2023,At Risk
+IND-0150,Burkina Faso,Centre,Food Security,NORAD,ACF,HH Food Security Score,356,342,3,2023,On Track
+IND-0151,Burkina Faso,Sahel,Nutrition,USAID,IRC,SAM Treatment Rate (%),1071,852,3,2023,At Risk
+IND-0152,Niger,Maradi,WASH,BHA,SPONG,HH Safe Water Access (%),3048,2710,3,2023,On Track
+IND-0153,Niger,Agadez,Food Security,USAID,WFP,Food Ration Coverage (%),3583,1464,3,2023,Delayed
+IND-0154,Niger,Agadez,WASH,BHA,WFP,HH Safe Water Access (%),4994,3033,3,2023,At Risk
+IND-0155,Niger,Niamey,Protection,NORAD,WFP,Legal Aid Coverage (%),1084,756,3,2023,At Risk
+IND-0156,Niger,Niamey,Food Security,BHA,SPONG,Food Ration Coverage (%),3637,1904,3,2023,Delayed
+IND-0157,Chad,Lac,Shelter,BHA,MSF,Families Sheltered (#),1408,998,3,2023,At Risk
+IND-0158,Niger,Maradi,Nutrition,UNICEF,MSF,SAM Treatment Rate (%),4124,3077,3,2023,At Risk
+IND-0159,Burkina Faso,Nord,Health,GFFO,WFP,Skilled Birth Attendance (%),2874,2530,3,2023,On Track
+IND-0160,Burkina Faso,Centre,Health,NORAD,MSF,Vaccination Coverage (%),3528,3176,3,2023,On Track
+IND-0161,Niger,Maradi,Protection,NORAD,SPONG,GBV Referral Rate (%),1035,638,3,2023,At Risk
+IND-0162,Mali,Bamako,Protection,NORAD,UNICEF,GBV Referral Rate (%),1821,1307,3,2023,At Risk
+IND-0163,Burkina Faso,Cascades,Shelter,BHA,SPONG,Families Sheltered (#),2121,1408,3,2023,At Risk
+IND-0164,Burkina Faso,Cascades,Protection,GFFO,SPONG,Legal Aid Coverage (%),4695,3465,3,2023,At Risk
+IND-0165,Chad,N'Djamena,Food Security,BHA,WFP,Cash Transfer Rate (%),2623,2049,3,2023,At Risk
+IND-0166,Burkina Faso,Nord,Protection,NORAD,SPONG,Legal Aid Coverage (%),3463,1820,3,2023,Delayed
+IND-0167,Chad,Lac,Shelter,USAID,IRC,Shelter Completion Rate (%),941,796,3,2023,On Track
+IND-0168,Chad,Borkou,Protection,UNICEF,MSF,GBV Referral Rate (%),4596,2485,3,2023,Delayed
+IND-0169,Niger,Agadez,Protection,NORAD,MSF,GBV Referral Rate (%),3034,2514,3,2023,On Track
+IND-0170,Mali,Bamako,Health,UNICEF,SPONG,Skilled Birth Attendance (%),2611,2271,3,2023,On Track
+IND-0171,Chad,Lac,Food Security,GFFO,IRC,Cash Transfer Rate (%),3363,2379,3,2023,At Risk
+IND-0172,Chad,Ouaddai,WASH,USAID,UNICEF,Latrines Coverage (%),1984,1625,3,2023,On Track
+IND-0173,Niger,Niamey,Shelter,BHA,MSF,NFI Kits Distributed (#),1636,1495,3,2023,On Track
+IND-0174,Niger,Agadez,Protection,UNICEF,SPONG,Child Protection Cases (#),2039,1268,3,2023,At Risk
+IND-0175,Burkina Faso,Centre,Health,USAID,WFP,Vaccination Coverage (%),4668,3805,3,2023,On Track
+IND-0176,Burkina Faso,Centre,Food Security,GFFO,ACF,HH Food Security Score,1605,1859,3,2023,On Track
+IND-0177,Chad,Kanem,Shelter,UNICEF,WFP,NFI Kits Distributed (#),3513,2935,3,2023,On Track
+IND-0178,Burkina Faso,Centre,Shelter,BHA,SPONG,NFI Kits Distributed (#),647,580,3,2023,On Track
+IND-0179,Chad,Kanem,Protection,UNICEF,SPONG,Legal Aid Coverage (%),2604,2829,3,2023,On Track
+IND-0180,Niger,Zinder,WASH,NORAD,IRC,Hygiene Kits Distributed (#),1788,1662,3,2023,On Track
+IND-0181,Chad,Borkou,Nutrition,BHA,SPONG,MUAC Screening Coverage (%),2094,2002,4,2023,On Track
+IND-0182,Chad,Kanem,WASH,GFFO,SPONG,HH Safe Water Access (%),4185,2443,4,2023,At Risk
+IND-0183,Burkina Faso,Cascades,Protection,USAID,ACF,Child Protection Cases (#),4648,3887,4,2023,On Track
+IND-0184,Mali,Mopti,Nutrition,USAID,SPONG,MUAC Screening Coverage (%),3491,4054,4,2023,On Track
+IND-0185,Burkina Faso,Nord,Protection,NORAD,SPONG,Child Protection Cases (#),3182,1289,4,2023,Delayed
+IND-0186,Niger,Maradi,Shelter,GFFO,UNICEF,NFI Kits Distributed (#),2348,1705,4,2023,At Risk
+IND-0187,Burkina Faso,Centre,Food Security,GFFO,ACF,Food Ration Coverage (%),3857,2630,4,2023,At Risk
+IND-0188,Niger,Agadez,Nutrition,UNICEF,WFP,SAM Treatment Rate (%),281,194,4,2023,At Risk
+IND-0189,Niger,Agadez,Protection,BHA,ACF,Legal Aid Coverage (%),4850,4514,4,2023,On Track
+IND-0190,Chad,Kanem,Food Security,USAID,UNICEF,Food Ration Coverage (%),503,467,4,2023,On Track
+IND-0191,Chad,Borkou,Protection,UNICEF,SPONG,Child Protection Cases (#),3621,3846,4,2023,On Track
+IND-0192,Mali,Gao,Nutrition,NORAD,IRC,MUAC Screening Coverage (%),1776,1604,4,2023,On Track
+IND-0193,Chad,N'Djamena,Food Security,USAID,MSF,HH Food Security Score,158,158,4,2023,On Track
+IND-0194,Chad,N'Djamena,Food Security,NORAD,UNICEF,HH Food Security Score,625,445,4,2023,At Risk
+IND-0195,Niger,Niamey,WASH,USAID,SPONG,Latrines Coverage (%),1262,776,4,2023,At Risk
+IND-0196,Mali,Tombouctou,Protection,USAID,SPONG,Legal Aid Coverage (%),183,125,4,2023,At Risk
+IND-0197,Niger,Agadez,Health,UNICEF,SPONG,Consultation Rate (%),2789,2013,4,2023,At Risk
+IND-0198,Mali,Gao,Protection,BHA,SPONG,Legal Aid Coverage (%),2266,2009,4,2023,On Track
+IND-0199,Mali,Segou,Shelter,BHA,MSF,NFI Kits Distributed (#),2281,2160,4,2023,On Track
+IND-0200,Mali,Tombouctou,Nutrition,UNICEF,WFP,MUAC Screening Coverage (%),3191,2461,4,2023,At Risk
+IND-0201,Burkina Faso,Est,Nutrition,USAID,SPONG,SAM Treatment Rate (%),1106,708,4,2023,At Risk
+IND-0202,Chad,N'Djamena,Nutrition,NORAD,SPONG,SAM Treatment Rate (%),4143,4289,4,2023,On Track
+IND-0203,Burkina Faso,Sahel,Protection,USAID,WFP,GBV Referral Rate (%),2138,1773,4,2023,On Track
+IND-0204,Burkina Faso,Est,WASH,UNICEF,MSF,HH Safe Water Access (%),3815,3481,4,2023,On Track
+IND-0205,Burkina Faso,Cascades,Health,GFFO,SPONG,Vaccination Coverage (%),386,389,4,2023,On Track
+IND-0206,Mali,Mopti,WASH,GFFO,ACF,Latrines Coverage (%),3297,1815,4,2023,At Risk
+IND-0207,Burkina Faso,Cascades,WASH,GFFO,UNICEF,Hygiene Kits Distributed (#),3047,2400,4,2023,At Risk
+IND-0208,Chad,Borkou,Protection,NORAD,SPONG,Legal Aid Coverage (%),234,212,4,2023,On Track
+IND-0209,Mali,Gao,Shelter,GFFO,ACF,Shelter Completion Rate (%),2438,2319,4,2023,On Track
+IND-0210,Chad,Lac,Food Security,BHA,MSF,Food Ration Coverage (%),1688,1316,4,2023,At Risk
+IND-0211,Mali,Gao,Nutrition,USAID,UNICEF,Referral Rate (%),1482,870,4,2023,At Risk
+IND-0212,Chad,Kanem,WASH,USAID,MSF,Hygiene Kits Distributed (#),3462,2166,4,2023,At Risk
+IND-0213,Mali,Tombouctou,Health,USAID,SPONG,Vaccination Coverage (%),3718,3139,4,2023,On Track
+IND-0214,Burkina Faso,Est,WASH,GFFO,WFP,HH Safe Water Access (%),4117,3519,4,2023,On Track
+IND-0215,Mali,Bamako,Shelter,BHA,WFP,NFI Kits Distributed (#),1862,1301,4,2023,At Risk
+IND-0216,Chad,Borkou,Health,NORAD,SPONG,Skilled Birth Attendance (%),2013,1738,4,2023,On Track
+IND-0217,Mali,Mopti,Food Security,UNICEF,MSF,Food Ration Coverage (%),3113,2817,4,2023,On Track
+IND-0218,Mali,Bamako,Nutrition,USAID,IRC,Referral Rate (%),1617,1057,4,2023,At Risk
+IND-0219,Burkina Faso,Centre,Protection,USAID,UNICEF,Legal Aid Coverage (%),2807,2700,4,2023,On Track
+IND-0220,Mali,Bamako,Health,BHA,ACF,Consultation Rate (%),4717,4062,4,2023,On Track
+IND-0221,Mali,Bamako,Nutrition,USAID,UNICEF,SAM Treatment Rate (%),3992,2563,4,2023,At Risk
+IND-0222,Mali,Bamako,Health,USAID,MSF,Skilled Birth Attendance (%),1726,916,4,2023,Delayed
+IND-0223,Burkina Faso,Cascades,Food Security,UNICEF,ACF,Food Ration Coverage (%),3738,2029,4,2023,Delayed
+IND-0224,Chad,Borkou,Protection,BHA,UNICEF,Child Protection Cases (#),1506,1263,4,2023,On Track
+IND-0225,Burkina Faso,Cascades,Shelter,NORAD,WFP,NFI Kits Distributed (#),2427,1641,4,2023,At Risk
+IND-0226,Chad,N'Djamena,Protection,NORAD,ACF,Legal Aid Coverage (%),1330,811,4,2023,At Risk
+IND-0227,Mali,Segou,Health,NORAD,IRC,Consultation Rate (%),3348,3013,4,2023,On Track
+IND-0228,Burkina Faso,Nord,Food Security,NORAD,UNICEF,Cash Transfer Rate (%),3233,2407,4,2023,At Risk
+IND-0229,Burkina Faso,Centre,Shelter,USAID,IRC,Families Sheltered (#),3114,2076,4,2023,At Risk
+IND-0230,Chad,N'Djamena,Shelter,GFFO,MSF,Families Sheltered (#),4728,3825,4,2023,On Track
+IND-0231,Niger,Maradi,Protection,BHA,MSF,Child Protection Cases (#),1446,1282,4,2023,On Track
+IND-0232,Chad,Ouaddai,Food Security,GFFO,SPONG,Food Ration Coverage (%),3156,3005,4,2023,On Track
+IND-0233,Mali,Mopti,WASH,UNICEF,MSF,Latrines Coverage (%),1944,1490,4,2023,At Risk
+IND-0234,Niger,Agadez,Protection,USAID,SPONG,Legal Aid Coverage (%),3385,2334,4,2023,At Risk
+IND-0235,Burkina Faso,Centre,Nutrition,NORAD,SPONG,SAM Treatment Rate (%),774,559,4,2023,At Risk
+IND-0236,Niger,Diffa,WASH,BHA,IRC,HH Safe Water Access (%),460,489,4,2023,On Track
+IND-0237,Chad,N'Djamena,Nutrition,USAID,SPONG,SAM Treatment Rate (%),1282,1103,4,2023,On Track
+IND-0238,Burkina Faso,Est,Nutrition,NORAD,WFP,Referral Rate (%),2586,1337,4,2023,Delayed
+IND-0239,Niger,Niamey,Health,NORAD,IRC,Consultation Rate (%),2594,2385,4,2023,On Track
+IND-0240,Burkina Faso,Est,Protection,BHA,WFP,Legal Aid Coverage (%),2396,2136,4,2023,On Track
+IND-0241,Chad,Borkou,Shelter,BHA,SPONG,Shelter Completion Rate (%),4931,4127,1,2024,On Track
+IND-0242,Niger,Agadez,Food Security,NORAD,IRC,Cash Transfer Rate (%),4520,2506,1,2024,At Risk
+IND-0243,Mali,Gao,Protection,USAID,ACF,GBV Referral Rate (%),2861,2519,1,2024,On Track
+IND-0244,Chad,Kanem,WASH,UNICEF,ACF,Latrines Coverage (%),548,290,1,2024,Delayed
+IND-0245,Burkina Faso,Est,WASH,BHA,WFP,HH Safe Water Access (%),4749,3739,1,2024,At Risk
+IND-0246,Niger,Diffa,Nutrition,GFFO,MSF,SAM Treatment Rate (%),3218,1978,1,2024,At Risk
+IND-0247,Chad,Borkou,Protection,UNICEF,SPONG,GBV Referral Rate (%),1205,694,1,2024,At Risk
+IND-0248,Mali,Segou,Shelter,UNICEF,ACF,Shelter Completion Rate (%),209,174,1,2024,On Track
+IND-0249,Niger,Zinder,Food Security,GFFO,ACF,HH Food Security Score,3625,3976,1,2024,On Track
+IND-0250,Chad,Lac,Protection,GFFO,WFP,Child Protection Cases (#),4714,4233,1,2024,On Track
+IND-0251,Mali,Gao,Shelter,GFFO,SPONG,Families Sheltered (#),1139,1183,1,2024,On Track
+IND-0252,Chad,Kanem,Health,GFFO,SPONG,Consultation Rate (%),1189,912,1,2024,At Risk
+IND-0253,Burkina Faso,Sahel,Shelter,USAID,SPONG,Shelter Completion Rate (%),881,735,1,2024,On Track
+IND-0254,Burkina Faso,Est,Nutrition,UNICEF,IRC,Referral Rate (%),1034,687,1,2024,At Risk
+IND-0255,Mali,Segou,WASH,USAID,ACF,HH Safe Water Access (%),4896,3055,1,2024,At Risk
+IND-0256,Niger,Diffa,Health,NORAD,MSF,Skilled Birth Attendance (%),4375,4439,1,2024,On Track
+IND-0257,Chad,N'Djamena,WASH,UNICEF,WFP,Latrines Coverage (%),3928,2220,1,2024,At Risk
+IND-0258,Chad,Kanem,Protection,GFFO,WFP,Child Protection Cases (#),420,449,1,2024,On Track
+IND-0259,Niger,Maradi,Health,UNICEF,SPONG,Vaccination Coverage (%),2002,1202,1,2024,At Risk
+IND-0260,Niger,Diffa,Protection,USAID,SPONG,Child Protection Cases (#),2100,1681,1,2024,On Track
+IND-0261,Chad,Kanem,Food Security,UNICEF,ACF,Food Ration Coverage (%),2099,1426,1,2024,At Risk
+IND-0262,Chad,Lac,WASH,NORAD,IRC,Hygiene Kits Distributed (#),3190,1754,1,2024,Delayed
+IND-0263,Mali,Gao,Protection,USAID,UNICEF,GBV Referral Rate (%),3334,2485,1,2024,At Risk
+IND-0264,Niger,Niamey,Protection,UNICEF,IRC,Legal Aid Coverage (%),4083,2989,1,2024,At Risk
+IND-0265,Chad,Lac,Health,USAID,UNICEF,Vaccination Coverage (%),4494,3812,1,2024,On Track
+IND-0266,Niger,Zinder,Food Security,UNICEF,WFP,HH Food Security Score,1324,1008,1,2024,At Risk
+IND-0267,Mali,Gao,Nutrition,USAID,MSF,MUAC Screening Coverage (%),2587,2642,1,2024,On Track
+IND-0268,Burkina Faso,Centre,Health,BHA,MSF,Vaccination Coverage (%),563,486,1,2024,On Track
+IND-0269,Niger,Zinder,WASH,GFFO,MSF,HH Safe Water Access (%),3046,2205,1,2024,At Risk
+IND-0270,Niger,Zinder,Nutrition,NORAD,WFP,MUAC Screening Coverage (%),1411,1269,1,2024,On Track
+IND-0271,Chad,Lac,WASH,NORAD,WFP,HH Safe Water Access (%),2027,2080,1,2024,On Track
+IND-0272,Niger,Diffa,Shelter,NORAD,ACF,Shelter Completion Rate (%),1075,760,1,2024,At Risk
+IND-0273,Chad,Ouaddai,Nutrition,GFFO,MSF,Referral Rate (%),779,662,1,2024,On Track
+IND-0274,Niger,Zinder,WASH,UNICEF,WFP,Hygiene Kits Distributed (#),314,220,1,2024,At Risk
+IND-0275,Burkina Faso,Cascades,Nutrition,NORAD,ACF,Referral Rate (%),3926,1875,1,2024,Delayed
+IND-0276,Chad,Lac,Food Security,GFFO,WFP,HH Food Security Score,2173,2253,1,2024,On Track
+IND-0277,Chad,Kanem,Health,GFFO,WFP,Vaccination Coverage (%),2804,1874,1,2024,At Risk
+IND-0278,Burkina Faso,Centre,Shelter,UNICEF,UNICEF,Families Sheltered (#),3867,2576,1,2024,At Risk
+IND-0279,Niger,Maradi,Food Security,NORAD,UNICEF,HH Food Security Score,4059,3681,1,2024,On Track
+IND-0280,Niger,Niamey,Nutrition,NORAD,IRC,Referral Rate (%),2287,2272,1,2024,On Track
+IND-0281,Burkina Faso,Nord,Shelter,BHA,IRC,Shelter Completion Rate (%),3784,4540,1,2024,On Track
+IND-0282,Niger,Zinder,Nutrition,UNICEF,SPONG,Referral Rate (%),3700,1875,1,2024,Delayed
+IND-0283,Chad,Kanem,Nutrition,USAID,IRC,SAM Treatment Rate (%),4781,3702,1,2024,At Risk
+IND-0284,Niger,Diffa,WASH,UNICEF,ACF,Latrines Coverage (%),3239,2325,1,2024,At Risk
+IND-0285,Chad,Kanem,Protection,UNICEF,WFP,GBV Referral Rate (%),4234,2111,1,2024,Delayed
+IND-0286,Mali,Tombouctou,WASH,BHA,SPONG,Hygiene Kits Distributed (#),1199,1067,1,2024,On Track
+IND-0287,Chad,Borkou,Shelter,BHA,ACF,Families Sheltered (#),1188,1293,1,2024,On Track
+IND-0288,Niger,Zinder,Shelter,GFFO,WFP,NFI Kits Distributed (#),4761,4620,1,2024,On Track
+IND-0289,Mali,Tombouctou,Food Security,NORAD,MSF,Food Ration Coverage (%),659,373,1,2024,At Risk
+IND-0290,Chad,Lac,WASH,USAID,UNICEF,Hygiene Kits Distributed (#),4197,4844,1,2024,On Track
+IND-0291,Mali,Mopti,Protection,USAID,IRC,Child Protection Cases (#),2064,2390,1,2024,On Track
+IND-0292,Burkina Faso,Sahel,Shelter,BHA,ACF,NFI Kits Distributed (#),3861,4048,1,2024,On Track
+IND-0293,Chad,N'Djamena,Protection,UNICEF,UNICEF,Legal Aid Coverage (%),4219,4300,1,2024,On Track
+IND-0294,Mali,Mopti,Shelter,BHA,MSF,Families Sheltered (#),3505,3830,1,2024,On Track
+IND-0295,Mali,Mopti,Food Security,USAID,WFP,Food Ration Coverage (%),3261,2358,1,2024,At Risk
+IND-0296,Niger,Zinder,Shelter,BHA,UNICEF,NFI Kits Distributed (#),1440,856,1,2024,At Risk
+IND-0297,Burkina Faso,Sahel,Protection,NORAD,SPONG,Child Protection Cases (#),3237,1912,1,2024,At Risk
+IND-0298,Niger,Maradi,Shelter,BHA,SPONG,Families Sheltered (#),2509,2835,1,2024,On Track
+IND-0299,Niger,Diffa,Health,USAID,ACF,Skilled Birth Attendance (%),4147,3388,1,2024,On Track
+IND-0300,Burkina Faso,Sahel,Shelter,GFFO,UNICEF,Families Sheltered (#),4058,3386,1,2024,On Track
+IND-0301,Niger,Zinder,Protection,NORAD,UNICEF,Child Protection Cases (#),4452,3218,2,2024,At Risk
+IND-0302,Burkina Faso,Centre,Nutrition,USAID,UNICEF,SAM Treatment Rate (%),2869,2452,2,2024,On Track
+IND-0303,Niger,Zinder,Nutrition,USAID,UNICEF,SAM Treatment Rate (%),2360,1384,2,2024,At Risk
+IND-0304,Chad,Borkou,Shelter,GFFO,SPONG,NFI Kits Distributed (#),1845,1531,2,2024,On Track
+IND-0305,Burkina Faso,Est,Protection,NORAD,WFP,GBV Referral Rate (%),4987,4426,2,2024,On Track
+IND-0306,Burkina Faso,Est,Nutrition,NORAD,MSF,SAM Treatment Rate (%),4743,4307,2,2024,On Track
+IND-0307,Burkina Faso,Sahel,WASH,USAID,UNICEF,Latrines Coverage (%),2242,2199,2,2024,On Track
+IND-0308,Mali,Mopti,Food Security,UNICEF,MSF,Food Ration Coverage (%),2993,2242,2,2024,At Risk
+IND-0309,Burkina Faso,Centre,Food Security,USAID,ACF,Food Ration Coverage (%),558,522,2,2024,On Track
+IND-0310,Chad,N'Djamena,Food Security,USAID,MSF,HH Food Security Score,4955,2589,2,2024,Delayed
+IND-0311,Niger,Niamey,Food Security,GFFO,MSF,Cash Transfer Rate (%),4178,2068,2,2024,Delayed
+IND-0312,Chad,Kanem,Shelter,BHA,IRC,Families Sheltered (#),4410,3649,2,2024,On Track
+IND-0313,Chad,Lac,Protection,NORAD,WFP,Child Protection Cases (#),1629,1514,2,2024,On Track
+IND-0314,Burkina Faso,Est,WASH,USAID,UNICEF,Hygiene Kits Distributed (#),452,251,2,2024,At Risk
+IND-0315,Chad,N'Djamena,WASH,UNICEF,UNICEF,HH Safe Water Access (%),2486,2043,2,2024,On Track
+IND-0316,Mali,Bamako,Food Security,UNICEF,ACF,HH Food Security Score,3527,3127,2,2024,On Track
+IND-0317,Burkina Faso,Nord,WASH,GFFO,ACF,Latrines Coverage (%),1088,945,2,2024,On Track
+IND-0318,Chad,Ouaddai,Health,USAID,UNICEF,Consultation Rate (%),2188,1545,2,2024,At Risk
+IND-0319,Chad,Kanem,Protection,NORAD,UNICEF,GBV Referral Rate (%),1557,1517,2,2024,On Track
+IND-0320,Mali,Mopti,Protection,NORAD,SPONG,GBV Referral Rate (%),2564,1809,2,2024,At Risk
+IND-0321,Chad,Borkou,Protection,BHA,UNICEF,Legal Aid Coverage (%),3408,2656,2,2024,At Risk
+IND-0322,Niger,Zinder,WASH,USAID,IRC,Hygiene Kits Distributed (#),3456,2273,2,2024,At Risk
+IND-0323,Chad,Ouaddai,Health,UNICEF,IRC,Skilled Birth Attendance (%),2553,2133,2,2024,On Track
+IND-0324,Niger,Maradi,Health,UNICEF,ACF,Skilled Birth Attendance (%),3606,2144,2,2024,At Risk
+IND-0325,Mali,Tombouctou,Protection,UNICEF,IRC,GBV Referral Rate (%),4905,3512,2,2024,At Risk
+IND-0326,Niger,Agadez,Protection,USAID,WFP,GBV Referral Rate (%),2242,2374,2,2024,On Track
+IND-0327,Niger,Maradi,Shelter,UNICEF,IRC,Families Sheltered (#),2021,1524,2,2024,At Risk
+IND-0328,Niger,Diffa,Shelter,BHA,MSF,NFI Kits Distributed (#),4857,4501,2,2024,On Track
+IND-0329,Niger,Agadez,Food Security,USAID,SPONG,Cash Transfer Rate (%),1931,1450,2,2024,At Risk
+IND-0330,Mali,Gao,Protection,UNICEF,ACF,Legal Aid Coverage (%),1797,1781,2,2024,On Track
+IND-0331,Chad,N'Djamena,WASH,UNICEF,ACF,Hygiene Kits Distributed (#),1507,1450,2,2024,On Track
+IND-0332,Niger,Agadez,Protection,UNICEF,MSF,Legal Aid Coverage (%),3784,4054,2,2024,On Track
+IND-0333,Chad,Ouaddai,Food Security,BHA,SPONG,Cash Transfer Rate (%),4650,3423,2,2024,At Risk
+IND-0334,Burkina Faso,Est,WASH,USAID,MSF,Latrines Coverage (%),713,660,2,2024,On Track
+IND-0335,Burkina Faso,Centre,Food Security,GFFO,ACF,Cash Transfer Rate (%),2619,2855,2,2024,On Track
+IND-0336,Niger,Zinder,Health,GFFO,MSF,Consultation Rate (%),1057,869,2,2024,On Track
+IND-0337,Niger,Zinder,Health,USAID,ACF,Vaccination Coverage (%),4255,2848,2,2024,At Risk
+IND-0338,Niger,Agadez,Nutrition,GFFO,MSF,SAM Treatment Rate (%),3034,1798,2,2024,At Risk
+IND-0339,Chad,Kanem,Protection,GFFO,MSF,Child Protection Cases (#),2416,2188,2,2024,On Track
+IND-0340,Burkina Faso,Sahel,Food Security,NORAD,SPONG,Cash Transfer Rate (%),4607,3486,2,2024,At Risk
+IND-0341,Chad,Borkou,Protection,UNICEF,MSF,Child Protection Cases (#),3459,3436,2,2024,On Track
+IND-0342,Mali,Bamako,Nutrition,USAID,ACF,MUAC Screening Coverage (%),2458,2616,2,2024,On Track
+IND-0343,Niger,Maradi,WASH,USAID,MSF,HH Safe Water Access (%),2758,665,2,2024,Delayed
+IND-0344,Burkina Faso,Sahel,Nutrition,NORAD,IRC,SAM Treatment Rate (%),322,241,2,2024,At Risk
+IND-0345,Burkina Faso,Sahel,Health,USAID,IRC,Consultation Rate (%),210,167,2,2024,At Risk
+IND-0346,Chad,Kanem,Nutrition,GFFO,UNICEF,SAM Treatment Rate (%),925,1110,2,2024,On Track
+IND-0347,Mali,Bamako,Food Security,GFFO,ACF,Food Ration Coverage (%),3159,1926,2,2024,At Risk
+IND-0348,Niger,Zinder,Food Security,USAID,MSF,HH Food Security Score,1692,1447,2,2024,On Track
+IND-0349,Mali,Bamako,Shelter,NORAD,IRC,Shelter Completion Rate (%),3196,2555,2,2024,At Risk
+IND-0350,Niger,Niamey,Food Security,USAID,MSF,HH Food Security Score,3955,3398,2,2024,On Track
+IND-0351,Chad,Kanem,WASH,GFFO,UNICEF,HH Safe Water Access (%),3834,3263,2,2024,On Track
+IND-0352,Chad,Kanem,Protection,NORAD,UNICEF,Legal Aid Coverage (%),3316,2718,2,2024,On Track
+IND-0353,Burkina Faso,Cascades,Nutrition,BHA,WFP,Referral Rate (%),4293,1843,2,2024,Delayed
+IND-0354,Niger,Agadez,WASH,USAID,ACF,Latrines Coverage (%),1175,963,2,2024,On Track
+IND-0355,Mali,Segou,Health,USAID,WFP,Consultation Rate (%),2438,1614,2,2024,At Risk
+IND-0356,Niger,Niamey,WASH,USAID,WFP,Latrines Coverage (%),3642,3073,2,2024,On Track
+IND-0357,Chad,Kanem,WASH,NORAD,WFP,HH Safe Water Access (%),1846,1950,2,2024,On Track
+IND-0358,Mali,Mopti,Health,NORAD,UNICEF,Vaccination Coverage (%),1168,901,2,2024,At Risk
+IND-0359,Mali,Tombouctou,Shelter,NORAD,MSF,NFI Kits Distributed (#),4178,3191,2,2024,At Risk
+IND-0360,Mali,Mopti,Nutrition,NORAD,SPONG,Referral Rate (%),1100,794,2,2024,At Risk
+IND-0361,Niger,Maradi,Protection,GFFO,SPONG,Legal Aid Coverage (%),2509,1905,3,2024,At Risk
+IND-0362,Niger,Niamey,Shelter,USAID,IRC,NFI Kits Distributed (#),3919,3080,3,2024,At Risk
+IND-0363,Burkina Faso,Centre,Health,NORAD,ACF,Consultation Rate (%),4494,4148,3,2024,On Track
+IND-0364,Burkina Faso,Cascades,WASH,GFFO,SPONG,Hygiene Kits Distributed (#),4778,5214,3,2024,On Track
+IND-0365,Burkina Faso,Est,Food Security,UNICEF,ACF,Food Ration Coverage (%),3392,3129,3,2024,On Track
+IND-0366,Burkina Faso,Nord,Health,UNICEF,IRC,Skilled Birth Attendance (%),4829,3834,3,2024,At Risk
+IND-0367,Niger,Diffa,WASH,USAID,WFP,Latrines Coverage (%),2637,1414,3,2024,Delayed
+IND-0368,Mali,Bamako,WASH,BHA,WFP,Latrines Coverage (%),3800,4421,3,2024,On Track
+IND-0369,Burkina Faso,Centre,Health,USAID,IRC,Skilled Birth Attendance (%),4568,2438,3,2024,Delayed
+IND-0370,Niger,Diffa,Protection,BHA,UNICEF,GBV Referral Rate (%),3256,2859,3,2024,On Track
+IND-0371,Chad,Borkou,Protection,GFFO,UNICEF,GBV Referral Rate (%),1420,1007,3,2024,At Risk
+IND-0372,Mali,Tombouctou,Nutrition,NORAD,WFP,MUAC Screening Coverage (%),2273,1514,3,2024,At Risk
+IND-0373,Burkina Faso,Centre,Nutrition,GFFO,UNICEF,Referral Rate (%),1137,577,3,2024,Delayed
+IND-0374,Mali,Bamako,Health,GFFO,SPONG,Vaccination Coverage (%),1572,1266,3,2024,On Track
+IND-0375,Niger,Maradi,WASH,GFFO,IRC,HH Safe Water Access (%),3738,3914,3,2024,On Track
+IND-0376,Niger,Zinder,Health,USAID,ACF,Skilled Birth Attendance (%),2678,1401,3,2024,Delayed
+IND-0377,Niger,Agadez,Protection,UNICEF,SPONG,GBV Referral Rate (%),489,545,3,2024,On Track
+IND-0378,Mali,Gao,Shelter,GFFO,IRC,Families Sheltered (#),220,178,3,2024,On Track
+IND-0379,Chad,Ouaddai,Protection,NORAD,WFP,Child Protection Cases (#),2841,1374,3,2024,Delayed
+IND-0380,Chad,Borkou,Food Security,NORAD,SPONG,HH Food Security Score,1619,817,3,2024,Delayed
+IND-0381,Chad,N'Djamena,Shelter,USAID,IRC,NFI Kits Distributed (#),3139,1904,3,2024,At Risk
+IND-0382,Niger,Niamey,Food Security,NORAD,UNICEF,Cash Transfer Rate (%),4246,4039,3,2024,On Track
+IND-0383,Mali,Tombouctou,Nutrition,NORAD,ACF,SAM Treatment Rate (%),2553,1880,3,2024,At Risk
+IND-0384,Niger,Maradi,Health,UNICEF,UNICEF,Vaccination Coverage (%),4109,3143,3,2024,At Risk
+IND-0385,Chad,N'Djamena,Health,NORAD,WFP,Consultation Rate (%),790,716,3,2024,On Track
+IND-0386,Mali,Segou,Nutrition,USAID,ACF,Referral Rate (%),4545,3574,3,2024,At Risk
+IND-0387,Mali,Mopti,WASH,BHA,ACF,Latrines Coverage (%),2202,1600,3,2024,At Risk
+IND-0388,Chad,Lac,Protection,NORAD,IRC,Legal Aid Coverage (%),394,329,3,2024,On Track
+IND-0389,Niger,Agadez,Health,BHA,UNICEF,Skilled Birth Attendance (%),2181,1792,3,2024,On Track
+IND-0390,Burkina Faso,Cascades,Health,NORAD,MSF,Consultation Rate (%),1020,657,3,2024,At Risk
+IND-0391,Mali,Bamako,Protection,GFFO,SPONG,Child Protection Cases (#),270,229,3,2024,On Track
+IND-0392,Chad,Lac,Nutrition,GFFO,SPONG,Referral Rate (%),526,374,3,2024,At Risk
+IND-0393,Chad,Kanem,Protection,UNICEF,MSF,Legal Aid Coverage (%),704,643,3,2024,On Track
+IND-0394,Niger,Zinder,Nutrition,USAID,UNICEF,SAM Treatment Rate (%),1767,1247,3,2024,At Risk
+IND-0395,Chad,Borkou,Protection,USAID,UNICEF,Child Protection Cases (#),2122,1854,3,2024,On Track
+IND-0396,Mali,Segou,Health,USAID,MSF,Skilled Birth Attendance (%),3738,3896,3,2024,On Track
+IND-0397,Chad,N'Djamena,Shelter,GFFO,WFP,Families Sheltered (#),2095,2461,3,2024,On Track
+IND-0398,Mali,Gao,Nutrition,GFFO,MSF,MUAC Screening Coverage (%),809,523,3,2024,At Risk
+IND-0399,Chad,Lac,Shelter,BHA,SPONG,Families Sheltered (#),2696,2468,3,2024,On Track
+IND-0400,Chad,N'Djamena,Health,UNICEF,IRC,Skilled Birth Attendance (%),1783,1109,3,2024,At Risk
+IND-0401,Burkina Faso,Centre,Health,BHA,UNICEF,Skilled Birth Attendance (%),769,577,3,2024,At Risk
+IND-0402,Chad,Kanem,Health,GFFO,MSF,Consultation Rate (%),2387,1344,3,2024,At Risk
+IND-0403,Niger,Maradi,Food Security,NORAD,SPONG,Food Ration Coverage (%),1955,1829,3,2024,On Track
+IND-0404,Chad,Kanem,Shelter,UNICEF,IRC,NFI Kits Distributed (#),2334,2180,3,2024,On Track
+IND-0405,Burkina Faso,Nord,Shelter,NORAD,IRC,Shelter Completion Rate (%),493,359,3,2024,At Risk
+IND-0406,Burkina Faso,Sahel,Health,USAID,UNICEF,Skilled Birth Attendance (%),4423,5307,3,2024,On Track
+IND-0407,Mali,Segou,WASH,NORAD,SPONG,Hygiene Kits Distributed (#),333,224,3,2024,At Risk
+IND-0408,Chad,N'Djamena,Protection,NORAD,ACF,Child Protection Cases (#),2717,1728,3,2024,At Risk
+IND-0409,Mali,Gao,Health,GFFO,UNICEF,Vaccination Coverage (%),4526,2980,3,2024,At Risk
+IND-0410,Mali,Segou,Protection,GFFO,SPONG,GBV Referral Rate (%),2462,2179,3,2024,On Track
+IND-0411,Burkina Faso,Cascades,Food Security,USAID,UNICEF,Food Ration Coverage (%),1728,1942,3,2024,On Track
+IND-0412,Mali,Segou,Shelter,BHA,WFP,NFI Kits Distributed (#),4056,2424,3,2024,At Risk
+IND-0413,Chad,Ouaddai,Shelter,NORAD,SPONG,NFI Kits Distributed (#),4895,4535,3,2024,On Track
+IND-0414,Mali,Mopti,Shelter,BHA,MSF,Families Sheltered (#),930,728,3,2024,At Risk
+IND-0415,Burkina Faso,Nord,Health,UNICEF,IRC,Skilled Birth Attendance (%),4468,4373,3,2024,On Track
+IND-0416,Chad,Ouaddai,Nutrition,BHA,IRC,Referral Rate (%),4750,4024,3,2024,On Track
+IND-0417,Mali,Segou,WASH,NORAD,ACF,Latrines Coverage (%),2996,3119,3,2024,On Track
+IND-0418,Mali,Gao,Health,GFFO,SPONG,Vaccination Coverage (%),919,971,3,2024,On Track
+IND-0419,Burkina Faso,Nord,Nutrition,USAID,MSF,MUAC Screening Coverage (%),1781,1083,3,2024,At Risk
+IND-0420,Mali,Bamako,Protection,UNICEF,IRC,GBV Referral Rate (%),516,288,3,2024,At Risk
+IND-0421,Burkina Faso,Cascades,Health,BHA,SPONG,Vaccination Coverage (%),2224,1774,4,2024,At Risk
+IND-0422,Mali,Tombouctou,Food Security,BHA,SPONG,HH Food Security Score,3048,3199,4,2024,On Track
+IND-0423,Burkina Faso,Cascades,Nutrition,GFFO,SPONG,MUAC Screening Coverage (%),4459,2922,4,2024,At Risk
+IND-0424,Niger,Diffa,Food Security,UNICEF,UNICEF,HH Food Security Score,408,262,4,2024,At Risk
+IND-0425,Niger,Maradi,WASH,BHA,IRC,HH Safe Water Access (%),1619,1016,4,2024,At Risk
+IND-0426,Burkina Faso,Centre,Shelter,BHA,MSF,NFI Kits Distributed (#),782,566,4,2024,At Risk
+IND-0427,Burkina Faso,Est,WASH,USAID,ACF,Latrines Coverage (%),353,221,4,2024,At Risk
+IND-0428,Burkina Faso,Centre,Health,NORAD,UNICEF,Skilled Birth Attendance (%),1124,959,4,2024,On Track
+IND-0429,Mali,Gao,Protection,USAID,IRC,Legal Aid Coverage (%),1966,1915,4,2024,On Track
+IND-0430,Mali,Mopti,Nutrition,NORAD,ACF,SAM Treatment Rate (%),916,849,4,2024,On Track
+IND-0431,Mali,Gao,Food Security,UNICEF,MSF,Food Ration Coverage (%),3420,805,4,2024,Delayed
+IND-0432,Niger,Diffa,Health,BHA,IRC,Skilled Birth Attendance (%),1050,670,4,2024,At Risk
+IND-0433,Mali,Segou,Protection,UNICEF,ACF,Legal Aid Coverage (%),3417,2244,4,2024,At Risk
+IND-0434,Niger,Maradi,Food Security,UNICEF,ACF,Cash Transfer Rate (%),312,262,4,2024,On Track
+IND-0435,Mali,Bamako,Nutrition,NORAD,WFP,MUAC Screening Coverage (%),4087,2448,4,2024,At Risk
+IND-0436,Chad,Borkou,Shelter,GFFO,MSF,Families Sheltered (#),2371,1361,4,2024,At Risk
+IND-0437,Chad,N'Djamena,Protection,BHA,SPONG,Legal Aid Coverage (%),1415,1380,4,2024,On Track
+IND-0438,Mali,Mopti,Protection,GFFO,SPONG,Child Protection Cases (#),4381,4033,4,2024,On Track
+IND-0439,Burkina Faso,Nord,Health,NORAD,UNICEF,Consultation Rate (%),3420,2775,4,2024,On Track
+IND-0440,Chad,Ouaddai,Protection,USAID,WFP,Child Protection Cases (#),4157,4839,4,2024,On Track
+IND-0441,Niger,Niamey,Nutrition,UNICEF,SPONG,MUAC Screening Coverage (%),1430,677,4,2024,Delayed
+IND-0442,Chad,N'Djamena,Protection,GFFO,MSF,GBV Referral Rate (%),769,566,4,2024,At Risk
+IND-0443,Chad,Ouaddai,Protection,GFFO,UNICEF,Child Protection Cases (#),1084,800,4,2024,At Risk
+IND-0444,Niger,Maradi,Shelter,BHA,ACF,NFI Kits Distributed (#),4160,2742,4,2024,At Risk
+IND-0445,Chad,N'Djamena,Food Security,NORAD,ACF,HH Food Security Score,3109,2291,4,2024,At Risk
+IND-0446,Burkina Faso,Sahel,WASH,NORAD,WFP,Latrines Coverage (%),2672,1936,4,2024,At Risk
+IND-0447,Mali,Segou,WASH,UNICEF,MSF,Hygiene Kits Distributed (#),2224,1724,4,2024,At Risk
+IND-0448,Burkina Faso,Nord,Food Security,BHA,SPONG,Food Ration Coverage (%),1834,1493,4,2024,On Track
+IND-0449,Burkina Faso,Cascades,Food Security,GFFO,IRC,Food Ration Coverage (%),4871,4479,4,2024,On Track
+IND-0450,Niger,Agadez,Protection,BHA,WFP,GBV Referral Rate (%),4181,2289,4,2024,Delayed
+IND-0451,Burkina Faso,Cascades,Shelter,NORAD,WFP,Families Sheltered (#),1098,840,4,2024,At Risk
+IND-0452,Mali,Tombouctou,WASH,BHA,IRC,Latrines Coverage (%),3078,1397,4,2024,Delayed
+IND-0453,Chad,N'Djamena,Nutrition,NORAD,WFP,SAM Treatment Rate (%),1419,1047,4,2024,At Risk
+IND-0454,Chad,Kanem,Protection,BHA,SPONG,Child Protection Cases (#),1145,1144,4,2024,On Track
+IND-0455,Burkina Faso,Centre,WASH,USAID,ACF,Hygiene Kits Distributed (#),744,612,4,2024,On Track
+IND-0456,Burkina Faso,Est,Food Security,UNICEF,WFP,HH Food Security Score,1405,1356,4,2024,On Track
+IND-0457,Burkina Faso,Est,Food Security,NORAD,UNICEF,HH Food Security Score,2669,1628,4,2024,At Risk
+IND-0458,Mali,Bamako,Health,UNICEF,MSF,Skilled Birth Attendance (%),3163,2787,4,2024,On Track
+IND-0459,Chad,Borkou,Health,USAID,WFP,Consultation Rate (%),4437,2617,4,2024,At Risk
+IND-0460,Burkina Faso,Nord,Shelter,NORAD,IRC,NFI Kits Distributed (#),4121,2305,4,2024,At Risk
+IND-0461,Burkina Faso,Cascades,WASH,UNICEF,SPONG,HH Safe Water Access (%),2079,1503,4,2024,At Risk
+IND-0462,Burkina Faso,Cascades,Shelter,UNICEF,UNICEF,Shelter Completion Rate (%),690,347,4,2024,Delayed
+IND-0463,Mali,Tombouctou,Health,BHA,WFP,Vaccination Coverage (%),2387,1576,4,2024,At Risk
+IND-0464,Burkina Faso,Nord,Nutrition,USAID,WFP,Referral Rate (%),2579,1821,4,2024,At Risk
+IND-0465,Niger,Maradi,Food Security,UNICEF,IRC,Cash Transfer Rate (%),2002,1316,4,2024,At Risk
+IND-0466,Chad,N'Djamena,Protection,UNICEF,MSF,GBV Referral Rate (%),2996,2944,4,2024,On Track
+IND-0467,Chad,Ouaddai,Shelter,GFFO,ACF,NFI Kits Distributed (#),1280,1187,4,2024,On Track
+IND-0468,Mali,Tombouctou,Nutrition,USAID,WFP,MUAC Screening Coverage (%),4305,2746,4,2024,At Risk
+IND-0469,Niger,Niamey,Nutrition,UNICEF,ACF,Referral Rate (%),4851,3258,4,2024,At Risk
+IND-0470,Mali,Mopti,Nutrition,NORAD,UNICEF,MUAC Screening Coverage (%),1999,1531,4,2024,At Risk
+IND-0471,Burkina Faso,Centre,Protection,NORAD,WFP,GBV Referral Rate (%),4767,3290,4,2024,At Risk
+IND-0472,Niger,Maradi,Nutrition,GFFO,ACF,Referral Rate (%),4422,4056,4,2024,On Track
+IND-0473,Burkina Faso,Sahel,Shelter,USAID,ACF,NFI Kits Distributed (#),3828,2868,4,2024,At Risk
+IND-0474,Chad,Borkou,Nutrition,USAID,WFP,SAM Treatment Rate (%),2707,1651,4,2024,At Risk
+IND-0475,Chad,Lac,WASH,BHA,ACF,Latrines Coverage (%),5000,5848,4,2024,On Track
+IND-0476,Mali,Bamako,Shelter,GFFO,SPONG,Families Sheltered (#),3791,2507,4,2024,At Risk
+IND-0477,Niger,Maradi,Food Security,NORAD,UNICEF,Cash Transfer Rate (%),698,410,4,2024,At Risk
+IND-0478,Niger,Niamey,Health,BHA,IRC,Vaccination Coverage (%),468,490,4,2024,On Track
+IND-0479,Niger,Zinder,Protection,NORAD,IRC,Child Protection Cases (#),2345,1790,4,2024,At Risk
+IND-0480,Burkina Faso,Sahel,Nutrition,USAID,UNICEF,MUAC Screening Coverage (%),1531,901,4,2024,At Risk

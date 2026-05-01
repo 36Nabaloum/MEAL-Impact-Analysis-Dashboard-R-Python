@@ -1,0 +1,401 @@
+FeedbackID,Country,Sector,FeedbackType,Channel,Severity,Resolved,DaysToResolve,Date
+FB-0001,Mali,Health,Feedback,Community Meeting,Medium,Yes,1,2024-04-16
+FB-0002,Mali,WASH,Feedback,Hotline,Low,Yes,21,2023-09-25
+FB-0003,Mali,Health,Request,Community Meeting,Medium,Yes,2,2023-12-11
+FB-0004,Chad,Protection,Feedback,Direct Staff,Low,Yes,23,2023-01-20
+FB-0005,Niger,Nutrition,Request,Direct Staff,Low,Yes,10,2024-02-06
+FB-0006,Niger,Nutrition,Feedback,Community Meeting,Medium,Yes,40,2024-02-03
+FB-0007,Mali,WASH,Feedback,Suggestion Box,Low,No,,2024-11-26
+FB-0008,Niger,Food Security,Feedback,Community Meeting,High,Yes,8,2023-12-16
+FB-0009,Burkina Faso,Protection,Request,Community Meeting,Medium,Yes,8,2023-04-08
+FB-0010,Mali,WASH,Complaint,Hotline,Medium,Yes,2,2023-10-11
+FB-0011,Mali,Protection,Complaint,Hotline,Medium,Yes,13,2024-06-17
+FB-0012,Burkina Faso,Food Security,Complaint,Direct Staff,Low,Yes,14,2023-09-08
+FB-0013,Mali,Health,Request,Community Meeting,High,Yes,1,2024-01-01
+FB-0014,Chad,Shelter,Feedback,Hotline,High,Yes,39,2024-02-29
+FB-0015,Burkina Faso,Health,Request,Hotline,Medium,No,,2023-07-24
+FB-0016,Burkina Faso,Shelter,Request,Hotline,Medium,No,,2024-03-14
+FB-0017,Chad,Protection,Request,Suggestion Box,Medium,Yes,41,2023-06-29
+FB-0018,Chad,Protection,Request,Direct Staff,Low,Yes,15,2023-07-14
+FB-0019,Burkina Faso,Nutrition,Feedback,Community Meeting,Medium,No,,2023-08-11
+FB-0020,Mali,Food Security,Feedback,Suggestion Box,Low,No,,2024-02-28
+FB-0021,Chad,Health,Complaint,Direct Staff,Medium,Yes,41,2024-08-26
+FB-0022,Burkina Faso,Protection,Request,Hotline,Low,Yes,2,2024-08-06
+FB-0023,Mali,Food Security,Request,Suggestion Box,Low,No,,2024-06-01
+FB-0024,Niger,Health,Feedback,Direct Staff,High,Yes,31,2023-12-02
+FB-0025,Niger,Shelter,Complaint,Direct Staff,Low,No,,2023-10-29
+FB-0026,Mali,Health,Complaint,Community Meeting,Critical,Yes,18,2024-12-16
+FB-0027,Burkina Faso,Shelter,Complaint,Direct Staff,Medium,Yes,6,2023-12-19
+FB-0028,Mali,Health,Request,Hotline,Medium,Yes,28,2023-10-24
+FB-0029,Chad,Food Security,Complaint,Suggestion Box,Low,Yes,39,2024-03-24
+FB-0030,Mali,Protection,Feedback,Direct Staff,Medium,No,,2024-04-06
+FB-0031,Mali,WASH,Complaint,Direct Staff,Medium,Yes,33,2023-02-08
+FB-0032,Niger,Food Security,Complaint,Community Meeting,Medium,Yes,11,2023-01-01
+FB-0033,Burkina Faso,Nutrition,Complaint,Direct Staff,Medium,Yes,31,2024-09-12
+FB-0034,Burkina Faso,WASH,Complaint,Hotline,Medium,Yes,22,2023-07-14
+FB-0035,Burkina Faso,Nutrition,Suggestion,Hotline,Medium,Yes,33,2023-03-07
+FB-0036,Chad,Protection,Suggestion,Direct Staff,High,Yes,5,2024-08-18
+FB-0037,Chad,Shelter,Complaint,Direct Staff,Low,Yes,4,2023-12-08
+FB-0038,Chad,Food Security,Complaint,Community Meeting,Low,Yes,37,2024-09-23
+FB-0039,Niger,Nutrition,Request,Direct Staff,Low,Yes,37,2023-09-27
+FB-0040,Chad,Health,Suggestion,Community Meeting,Medium,Yes,39,2023-11-10
+FB-0041,Burkina Faso,Food Security,Complaint,Suggestion Box,High,Yes,44,2024-09-21
+FB-0042,Chad,WASH,Complaint,Direct Staff,Low,Yes,42,2024-09-01
+FB-0043,Niger,Protection,Complaint,Hotline,Medium,Yes,37,2024-09-09
+FB-0044,Mali,Health,Complaint,Community Meeting,High,Yes,30,2024-02-01
+FB-0045,Niger,Food Security,Complaint,Community Meeting,Low,Yes,41,2024-05-10
+FB-0046,Burkina Faso,Nutrition,Complaint,Community Meeting,Medium,No,,2023-09-14
+FB-0047,Chad,Food Security,Request,Hotline,Low,Yes,41,2023-01-12
+FB-0048,Mali,Protection,Request,Community Meeting,Medium,Yes,18,2024-09-22
+FB-0049,Mali,WASH,Suggestion,Hotline,Medium,Yes,23,2024-02-14
+FB-0050,Niger,Nutrition,Request,Hotline,Medium,Yes,18,2023-11-08
+FB-0051,Chad,Nutrition,Suggestion,Suggestion Box,Low,Yes,22,2024-07-19
+FB-0052,Niger,Nutrition,Suggestion,Direct Staff,Low,No,,2023-04-23
+FB-0053,Burkina Faso,Protection,Feedback,Suggestion Box,Low,Yes,32,2024-10-29
+FB-0054,Burkina Faso,Nutrition,Complaint,Direct Staff,Low,Yes,41,2024-02-29
+FB-0055,Burkina Faso,Food Security,Complaint,Hotline,Low,Yes,18,2024-04-08
+FB-0056,Burkina Faso,Shelter,Complaint,Direct Staff,Medium,No,,2023-02-08
+FB-0057,Chad,Health,Complaint,Community Meeting,Low,Yes,17,2024-03-15
+FB-0058,Niger,Protection,Complaint,Hotline,Low,Yes,36,2023-01-02
+FB-0059,Mali,Health,Feedback,Suggestion Box,Low,Yes,43,2024-03-09
+FB-0060,Burkina Faso,Protection,Request,Community Meeting,Low,No,,2024-06-24
+FB-0061,Niger,Health,Request,Hotline,High,No,,2023-09-05
+FB-0062,Mali,Shelter,Request,Direct Staff,Low,No,,2024-12-21
+FB-0063,Mali,WASH,Feedback,Suggestion Box,Low,Yes,11,2024-05-05
+FB-0064,Chad,Health,Feedback,Hotline,Medium,No,,2023-10-15
+FB-0065,Mali,Food Security,Complaint,Suggestion Box,High,No,,2023-11-16
+FB-0066,Mali,Health,Request,Community Meeting,Low,Yes,3,2024-11-26
+FB-0067,Burkina Faso,Health,Complaint,Suggestion Box,Low,Yes,38,2023-12-22
+FB-0068,Chad,WASH,Request,Hotline,Low,Yes,17,2024-04-10
+FB-0069,Niger,Food Security,Feedback,Suggestion Box,Medium,Yes,9,2023-08-06
+FB-0070,Niger,Protection,Feedback,Direct Staff,Low,Yes,25,2023-07-30
+FB-0071,Burkina Faso,Health,Suggestion,Suggestion Box,High,Yes,30,2023-08-19
+FB-0072,Mali,WASH,Complaint,Suggestion Box,Low,Yes,42,2024-11-04
+FB-0073,Chad,Shelter,Complaint,Community Meeting,Medium,Yes,14,2023-09-01
+FB-0074,Niger,Shelter,Request,Hotline,Low,Yes,18,2023-08-15
+FB-0075,Chad,WASH,Feedback,Hotline,Low,No,,2023-11-13
+FB-0076,Niger,Food Security,Feedback,Community Meeting,Critical,No,,2023-09-22
+FB-0077,Mali,Health,Feedback,Suggestion Box,Low,Yes,14,2024-10-07
+FB-0078,Niger,Nutrition,Complaint,Direct Staff,Low,Yes,32,2024-10-11
+FB-0079,Mali,Protection,Complaint,Hotline,Medium,No,,2024-06-11
+FB-0080,Mali,Shelter,Complaint,Hotline,Low,Yes,33,2023-12-10
+FB-0081,Chad,Shelter,Suggestion,Hotline,Medium,Yes,31,2024-09-01
+FB-0082,Mali,Nutrition,Feedback,Community Meeting,High,Yes,40,2023-04-13
+FB-0083,Mali,WASH,Request,Suggestion Box,Low,Yes,8,2024-10-11
+FB-0084,Chad,Protection,Request,Community Meeting,Medium,Yes,45,2024-08-10
+FB-0085,Burkina Faso,Food Security,Feedback,Direct Staff,Medium,No,,2023-10-17
+FB-0086,Niger,Protection,Feedback,Community Meeting,Medium,No,,2023-03-09
+FB-0087,Niger,Protection,Feedback,Hotline,High,Yes,26,2024-12-27
+FB-0088,Niger,Shelter,Request,Hotline,Medium,Yes,18,2023-12-02
+FB-0089,Chad,Health,Feedback,Hotline,Low,No,,2024-05-05
+FB-0090,Burkina Faso,WASH,Complaint,Hotline,Low,No,,2023-08-16
+FB-0091,Chad,Shelter,Feedback,Suggestion Box,Medium,Yes,25,2024-12-20
+FB-0092,Mali,Health,Feedback,Direct Staff,Medium,No,,2024-12-14
+FB-0093,Mali,Protection,Complaint,Suggestion Box,Low,Yes,10,2024-04-11
+FB-0094,Burkina Faso,WASH,Complaint,Suggestion Box,Low,Yes,30,2023-11-26
+FB-0095,Burkina Faso,Nutrition,Complaint,Direct Staff,High,Yes,35,2024-11-22
+FB-0096,Niger,Shelter,Feedback,Hotline,Medium,No,,2024-07-26
+FB-0097,Mali,WASH,Feedback,Suggestion Box,Medium,Yes,25,2024-11-14
+FB-0098,Chad,WASH,Feedback,Community Meeting,Medium,No,,2024-01-06
+FB-0099,Burkina Faso,Food Security,Complaint,Direct Staff,Low,Yes,32,2023-10-28
+FB-0100,Niger,Nutrition,Request,Suggestion Box,High,Yes,5,2023-06-11
+FB-0101,Chad,Shelter,Feedback,Suggestion Box,Low,Yes,32,2024-03-25
+FB-0102,Burkina Faso,Protection,Complaint,Suggestion Box,High,Yes,14,2024-04-02
+FB-0103,Chad,Nutrition,Request,Direct Staff,Low,Yes,35,2024-06-29
+FB-0104,Burkina Faso,Shelter,Feedback,Community Meeting,Low,Yes,24,2023-10-26
+FB-0105,Chad,Health,Feedback,Hotline,Medium,Yes,30,2023-03-19
+FB-0106,Niger,Health,Request,Direct Staff,Medium,Yes,13,2024-10-07
+FB-0107,Mali,Shelter,Complaint,Suggestion Box,Low,Yes,23,2024-12-20
+FB-0108,Niger,Food Security,Request,Community Meeting,High,Yes,9,2024-08-15
+FB-0109,Mali,Health,Complaint,Community Meeting,Medium,No,,2024-05-26
+FB-0110,Mali,Shelter,Feedback,Direct Staff,High,Yes,6,2023-11-07
+FB-0111,Burkina Faso,Nutrition,Feedback,Community Meeting,High,Yes,36,2023-07-20
+FB-0112,Burkina Faso,Health,Feedback,Community Meeting,Medium,Yes,14,2023-01-09
+FB-0113,Burkina Faso,WASH,Complaint,Hotline,Medium,Yes,9,2023-10-26
+FB-0114,Chad,WASH,Request,Direct Staff,Low,Yes,9,2023-07-17
+FB-0115,Mali,Nutrition,Complaint,Community Meeting,High,No,,2023-07-24
+FB-0116,Chad,Nutrition,Complaint,Direct Staff,Low,Yes,15,2024-10-02
+FB-0117,Mali,Food Security,Complaint,Community Meeting,High,Yes,6,2024-10-20
+FB-0118,Mali,Food Security,Complaint,Suggestion Box,Low,Yes,1,2024-04-06
+FB-0119,Chad,Nutrition,Request,Hotline,Medium,No,,2024-09-07
+FB-0120,Mali,Shelter,Suggestion,Direct Staff,Low,Yes,26,2024-10-25
+FB-0121,Mali,Food Security,Request,Suggestion Box,Low,No,,2024-01-14
+FB-0122,Burkina Faso,Shelter,Feedback,Direct Staff,Low,Yes,24,2024-08-21
+FB-0123,Burkina Faso,Food Security,Feedback,Direct Staff,Low,Yes,8,2023-11-15
+FB-0124,Niger,Food Security,Complaint,Suggestion Box,Low,Yes,5,2023-04-15
+FB-0125,Chad,Food Security,Feedback,Suggestion Box,High,Yes,9,2024-05-16
+FB-0126,Burkina Faso,Food Security,Complaint,Community Meeting,High,Yes,18,2023-04-18
+FB-0127,Burkina Faso,Food Security,Complaint,Suggestion Box,Medium,No,,2023-03-13
+FB-0128,Chad,Shelter,Feedback,Community Meeting,Medium,Yes,19,2024-09-10
+FB-0129,Niger,Shelter,Feedback,Hotline,Medium,No,,2024-04-05
+FB-0130,Burkina Faso,Protection,Complaint,Hotline,Low,No,,2023-05-09
+FB-0131,Chad,Nutrition,Feedback,Hotline,Medium,Yes,7,2023-01-06
+FB-0132,Niger,Food Security,Complaint,Community Meeting,High,Yes,31,2024-01-13
+FB-0133,Niger,WASH,Complaint,Suggestion Box,High,Yes,32,2024-08-18
+FB-0134,Mali,Food Security,Request,Direct Staff,Low,Yes,35,2023-02-27
+FB-0135,Niger,Food Security,Request,Hotline,High,Yes,25,2024-08-23
+FB-0136,Niger,Health,Complaint,Suggestion Box,Medium,Yes,30,2023-05-16
+FB-0137,Niger,Health,Suggestion,Community Meeting,Medium,Yes,3,2023-07-22
+FB-0138,Burkina Faso,Protection,Suggestion,Hotline,Critical,Yes,13,2023-05-25
+FB-0139,Chad,Shelter,Request,Direct Staff,High,No,,2024-07-22
+FB-0140,Niger,Nutrition,Request,Suggestion Box,Low,Yes,32,2024-12-19
+FB-0141,Burkina Faso,WASH,Complaint,Hotline,Low,Yes,27,2023-02-21
+FB-0142,Niger,WASH,Request,Suggestion Box,Low,Yes,45,2024-10-19
+FB-0143,Mali,Shelter,Feedback,Community Meeting,Low,Yes,3,2023-09-12
+FB-0144,Niger,Nutrition,Feedback,Direct Staff,Low,Yes,4,2024-03-01
+FB-0145,Burkina Faso,Shelter,Feedback,Suggestion Box,High,Yes,30,2023-10-22
+FB-0146,Burkina Faso,WASH,Suggestion,Direct Staff,Low,No,,2024-03-14
+FB-0147,Niger,Health,Complaint,Community Meeting,Medium,Yes,20,2023-08-06
+FB-0148,Burkina Faso,Food Security,Complaint,Hotline,High,Yes,21,2024-06-15
+FB-0149,Chad,Shelter,Feedback,Direct Staff,Medium,No,,2023-05-04
+FB-0150,Chad,Protection,Complaint,Suggestion Box,Low,Yes,17,2024-09-12
+FB-0151,Chad,WASH,Feedback,Suggestion Box,Low,Yes,21,2024-11-09
+FB-0152,Mali,Protection,Feedback,Community Meeting,High,Yes,40,2023-10-17
+FB-0153,Chad,Shelter,Complaint,Direct Staff,Low,Yes,33,2024-08-20
+FB-0154,Mali,Shelter,Complaint,Suggestion Box,Low,Yes,28,2023-04-01
+FB-0155,Mali,Food Security,Suggestion,Community Meeting,High,Yes,41,2023-10-29
+FB-0156,Mali,Nutrition,Request,Direct Staff,Medium,Yes,45,2023-12-10
+FB-0157,Chad,Health,Feedback,Community Meeting,High,Yes,35,2024-12-15
+FB-0158,Chad,Protection,Feedback,Community Meeting,High,Yes,43,2024-03-26
+FB-0159,Niger,Shelter,Complaint,Direct Staff,High,No,,2023-05-05
+FB-0160,Burkina Faso,WASH,Request,Hotline,High,Yes,28,2023-08-18
+FB-0161,Mali,Protection,Feedback,Suggestion Box,High,No,,2023-01-02
+FB-0162,Burkina Faso,Nutrition,Complaint,Community Meeting,High,Yes,10,2024-04-13
+FB-0163,Chad,Protection,Request,Direct Staff,Low,No,,2023-08-25
+FB-0164,Niger,Food Security,Complaint,Suggestion Box,Critical,No,,2023-11-03
+FB-0165,Niger,Shelter,Complaint,Hotline,High,No,,2024-01-09
+FB-0166,Niger,Protection,Complaint,Community Meeting,Critical,No,,2024-06-20
+FB-0167,Mali,Health,Request,Hotline,Medium,Yes,10,2023-12-07
+FB-0168,Burkina Faso,Health,Feedback,Hotline,Medium,No,,2024-01-19
+FB-0169,Niger,Shelter,Complaint,Hotline,Low,Yes,9,2024-01-21
+FB-0170,Mali,Health,Suggestion,Community Meeting,Medium,Yes,31,2024-05-10
+FB-0171,Niger,Protection,Suggestion,Direct Staff,Medium,Yes,1,2023-07-14
+FB-0172,Mali,Shelter,Complaint,Hotline,Low,Yes,23,2023-06-19
+FB-0173,Mali,WASH,Request,Direct Staff,Low,Yes,11,2024-07-10
+FB-0174,Mali,Food Security,Feedback,Suggestion Box,Medium,Yes,37,2023-07-07
+FB-0175,Mali,Food Security,Feedback,Community Meeting,High,Yes,20,2024-08-24
+FB-0176,Niger,Shelter,Complaint,Hotline,Medium,Yes,30,2023-09-30
+FB-0177,Burkina Faso,Shelter,Feedback,Hotline,Medium,Yes,35,2024-09-28
+FB-0178,Niger,Shelter,Feedback,Direct Staff,Low,Yes,2,2023-08-27
+FB-0179,Niger,WASH,Request,Direct Staff,Critical,Yes,1,2024-05-11
+FB-0180,Mali,Shelter,Complaint,Suggestion Box,Medium,Yes,42,2024-09-15
+FB-0181,Burkina Faso,Food Security,Complaint,Community Meeting,Medium,Yes,39,2023-06-11
+FB-0182,Chad,Shelter,Feedback,Direct Staff,Low,Yes,6,2023-11-29
+FB-0183,Niger,WASH,Feedback,Hotline,High,No,,2023-07-15
+FB-0184,Niger,Shelter,Complaint,Community Meeting,Critical,Yes,34,2024-10-10
+FB-0185,Chad,Protection,Complaint,Community Meeting,High,Yes,14,2023-05-02
+FB-0186,Mali,Shelter,Complaint,Community Meeting,Medium,Yes,31,2023-10-26
+FB-0187,Burkina Faso,Protection,Feedback,Suggestion Box,Medium,Yes,17,2023-03-14
+FB-0188,Burkina Faso,Nutrition,Complaint,Direct Staff,Low,No,,2024-10-17
+FB-0189,Mali,WASH,Complaint,Community Meeting,High,Yes,16,2023-09-24
+FB-0190,Mali,Food Security,Request,Community Meeting,Low,Yes,22,2024-05-24
+FB-0191,Chad,Shelter,Complaint,Hotline,Low,Yes,3,2023-02-04
+FB-0192,Chad,Protection,Request,Direct Staff,Medium,Yes,8,2024-06-22
+FB-0193,Niger,Health,Suggestion,Hotline,Low,Yes,16,2023-03-28
+FB-0194,Niger,Shelter,Suggestion,Suggestion Box,Medium,Yes,21,2023-04-07
+FB-0195,Chad,WASH,Request,Suggestion Box,High,No,,2023-02-23
+FB-0196,Niger,WASH,Complaint,Hotline,Low,Yes,39,2024-08-11
+FB-0197,Chad,Protection,Feedback,Hotline,Low,Yes,43,2023-08-18
+FB-0198,Burkina Faso,Protection,Complaint,Hotline,High,Yes,21,2023-07-14
+FB-0199,Burkina Faso,Shelter,Feedback,Suggestion Box,Medium,Yes,19,2024-04-27
+FB-0200,Niger,Protection,Suggestion,Hotline,Low,Yes,15,2024-04-20
+FB-0201,Burkina Faso,WASH,Feedback,Suggestion Box,Medium,No,,2024-05-20
+FB-0202,Mali,Health,Request,Community Meeting,High,No,,2024-11-14
+FB-0203,Burkina Faso,Food Security,Feedback,Direct Staff,Low,Yes,18,2024-03-21
+FB-0204,Mali,Nutrition,Feedback,Hotline,High,Yes,40,2023-11-26
+FB-0205,Burkina Faso,Protection,Feedback,Community Meeting,Medium,Yes,39,2023-03-21
+FB-0206,Mali,Nutrition,Request,Suggestion Box,High,No,,2024-02-07
+FB-0207,Niger,Food Security,Request,Suggestion Box,Medium,Yes,39,2024-05-17
+FB-0208,Niger,WASH,Feedback,Direct Staff,Medium,No,,2023-03-18
+FB-0209,Mali,WASH,Suggestion,Suggestion Box,Low,Yes,35,2023-11-27
+FB-0210,Chad,Health,Complaint,Suggestion Box,Medium,No,,2023-09-07
+FB-0211,Mali,Food Security,Request,Hotline,Low,Yes,4,2023-03-22
+FB-0212,Mali,Health,Complaint,Hotline,High,Yes,28,2023-06-08
+FB-0213,Niger,Nutrition,Feedback,Direct Staff,Medium,Yes,6,2024-05-31
+FB-0214,Chad,Protection,Feedback,Suggestion Box,Medium,No,,2023-05-29
+FB-0215,Mali,WASH,Complaint,Hotline,Medium,Yes,38,2023-07-07
+FB-0216,Chad,Shelter,Complaint,Hotline,Low,Yes,33,2023-11-26
+FB-0217,Niger,Food Security,Feedback,Suggestion Box,Low,Yes,1,2024-10-16
+FB-0218,Mali,Nutrition,Complaint,Suggestion Box,Medium,Yes,12,2024-11-01
+FB-0219,Chad,Health,Feedback,Suggestion Box,High,Yes,29,2024-09-14
+FB-0220,Chad,Food Security,Request,Suggestion Box,Medium,Yes,15,2023-04-14
+FB-0221,Mali,Food Security,Complaint,Suggestion Box,Low,Yes,2,2024-06-09
+FB-0222,Mali,Protection,Request,Direct Staff,Low,No,,2024-06-11
+FB-0223,Mali,Food Security,Request,Suggestion Box,Low,Yes,12,2023-12-30
+FB-0224,Mali,WASH,Request,Suggestion Box,Medium,Yes,9,2023-09-22
+FB-0225,Niger,Food Security,Suggestion,Hotline,Low,Yes,45,2024-11-21
+FB-0226,Mali,Protection,Complaint,Hotline,Low,Yes,34,2024-10-23
+FB-0227,Niger,Nutrition,Feedback,Direct Staff,High,Yes,22,2024-09-09
+FB-0228,Niger,Food Security,Request,Suggestion Box,Low,No,,2024-11-09
+FB-0229,Chad,WASH,Complaint,Suggestion Box,Critical,Yes,41,2024-03-31
+FB-0230,Niger,Nutrition,Suggestion,Community Meeting,Low,Yes,15,2023-03-14
+FB-0231,Chad,Protection,Feedback,Suggestion Box,Medium,Yes,37,2023-03-17
+FB-0232,Mali,Shelter,Feedback,Suggestion Box,Low,No,,2023-05-03
+FB-0233,Chad,Protection,Complaint,Suggestion Box,Medium,Yes,35,2024-10-24
+FB-0234,Niger,Shelter,Feedback,Hotline,Low,Yes,21,2023-10-18
+FB-0235,Chad,Nutrition,Request,Direct Staff,Medium,Yes,5,2023-01-19
+FB-0236,Burkina Faso,Protection,Request,Suggestion Box,Medium,Yes,7,2024-07-23
+FB-0237,Mali,Shelter,Feedback,Community Meeting,Low,Yes,16,2023-07-05
+FB-0238,Mali,Shelter,Complaint,Direct Staff,Low,Yes,1,2023-10-28
+FB-0239,Chad,Food Security,Complaint,Direct Staff,Medium,Yes,20,2024-01-11
+FB-0240,Chad,Health,Complaint,Suggestion Box,Medium,Yes,35,2024-07-02
+FB-0241,Burkina Faso,Nutrition,Complaint,Suggestion Box,Medium,No,,2024-04-24
+FB-0242,Burkina Faso,Health,Request,Community Meeting,Medium,Yes,41,2023-05-23
+FB-0243,Chad,Nutrition,Complaint,Suggestion Box,Medium,Yes,18,2023-11-02
+FB-0244,Niger,Food Security,Request,Direct Staff,Low,Yes,45,2023-07-28
+FB-0245,Niger,WASH,Request,Hotline,Critical,No,,2023-06-04
+FB-0246,Niger,Nutrition,Request,Hotline,Medium,Yes,45,2024-06-10
+FB-0247,Burkina Faso,Nutrition,Suggestion,Hotline,High,Yes,37,2023-07-04
+FB-0248,Mali,Shelter,Feedback,Community Meeting,Low,Yes,40,2023-04-26
+FB-0249,Niger,Protection,Feedback,Suggestion Box,Medium,Yes,9,2023-07-20
+FB-0250,Niger,Health,Complaint,Hotline,Medium,Yes,34,2023-05-01
+FB-0251,Burkina Faso,WASH,Suggestion,Hotline,Critical,Yes,4,2023-09-01
+FB-0252,Niger,Protection,Complaint,Suggestion Box,Medium,Yes,28,2023-12-15
+FB-0253,Burkina Faso,Protection,Suggestion,Hotline,Medium,No,,2024-09-26
+FB-0254,Burkina Faso,Nutrition,Feedback,Direct Staff,Medium,Yes,28,2023-08-24
+FB-0255,Burkina Faso,Nutrition,Feedback,Community Meeting,Critical,No,,2023-02-24
+FB-0256,Chad,Nutrition,Request,Community Meeting,High,No,,2024-09-20
+FB-0257,Chad,Food Security,Feedback,Community Meeting,Medium,Yes,33,2023-06-02
+FB-0258,Chad,Health,Request,Suggestion Box,Low,No,,2024-07-07
+FB-0259,Chad,Shelter,Complaint,Direct Staff,Low,Yes,4,2024-12-11
+FB-0260,Mali,Nutrition,Feedback,Community Meeting,Low,Yes,31,2023-04-21
+FB-0261,Chad,Health,Complaint,Suggestion Box,Medium,No,,2024-04-07
+FB-0262,Mali,Health,Suggestion,Hotline,High,No,,2023-04-08
+FB-0263,Mali,Health,Feedback,Direct Staff,Low,Yes,20,2024-02-15
+FB-0264,Burkina Faso,Food Security,Complaint,Hotline,Low,Yes,41,2023-12-23
+FB-0265,Chad,Food Security,Request,Direct Staff,Low,No,,2023-08-03
+FB-0266,Chad,Nutrition,Request,Suggestion Box,Medium,Yes,45,2023-12-23
+FB-0267,Burkina Faso,Food Security,Complaint,Suggestion Box,Medium,No,,2023-09-03
+FB-0268,Niger,Shelter,Complaint,Direct Staff,Medium,Yes,4,2023-07-13
+FB-0269,Niger,Food Security,Complaint,Suggestion Box,Low,No,,2023-06-15
+FB-0270,Burkina Faso,Shelter,Feedback,Suggestion Box,High,Yes,27,2023-08-20
+FB-0271,Mali,Protection,Complaint,Suggestion Box,High,Yes,21,2024-07-11
+FB-0272,Chad,Food Security,Suggestion,Suggestion Box,Medium,Yes,3,2023-03-31
+FB-0273,Chad,Food Security,Feedback,Suggestion Box,Medium,No,,2024-08-09
+FB-0274,Burkina Faso,WASH,Complaint,Direct Staff,High,Yes,23,2023-12-14
+FB-0275,Burkina Faso,Protection,Complaint,Community Meeting,Medium,Yes,6,2024-08-22
+FB-0276,Niger,Health,Request,Direct Staff,Medium,Yes,34,2024-05-17
+FB-0277,Burkina Faso,WASH,Complaint,Direct Staff,High,Yes,27,2024-08-12
+FB-0278,Burkina Faso,Protection,Complaint,Direct Staff,Medium,Yes,43,2024-11-29
+FB-0279,Mali,Food Security,Complaint,Community Meeting,Low,Yes,38,2023-03-07
+FB-0280,Chad,Protection,Feedback,Community Meeting,High,Yes,32,2024-11-08
+FB-0281,Niger,WASH,Suggestion,Suggestion Box,Critical,Yes,19,2024-11-11
+FB-0282,Niger,Nutrition,Suggestion,Hotline,High,Yes,24,2023-07-03
+FB-0283,Chad,Health,Suggestion,Hotline,Medium,Yes,20,2023-10-14
+FB-0284,Burkina Faso,Protection,Complaint,Suggestion Box,High,Yes,29,2024-10-13
+FB-0285,Niger,Food Security,Complaint,Direct Staff,Medium,No,,2024-06-08
+FB-0286,Burkina Faso,Food Security,Feedback,Community Meeting,High,Yes,17,2023-11-03
+FB-0287,Burkina Faso,Shelter,Suggestion,Community Meeting,Low,Yes,36,2023-10-07
+FB-0288,Burkina Faso,Shelter,Complaint,Community Meeting,Low,Yes,18,2024-12-26
+FB-0289,Burkina Faso,WASH,Feedback,Hotline,Low,No,,2023-05-23
+FB-0290,Burkina Faso,Food Security,Request,Direct Staff,Medium,Yes,25,2023-11-02
+FB-0291,Mali,Shelter,Complaint,Suggestion Box,Medium,Yes,16,2024-09-21
+FB-0292,Mali,Protection,Complaint,Suggestion Box,Medium,Yes,36,2023-09-04
+FB-0293,Burkina Faso,Protection,Feedback,Direct Staff,Low,Yes,3,2023-12-27
+FB-0294,Niger,Food Security,Feedback,Direct Staff,Medium,Yes,19,2024-05-20
+FB-0295,Chad,Food Security,Request,Direct Staff,Medium,Yes,42,2024-07-26
+FB-0296,Niger,Health,Feedback,Direct Staff,Low,Yes,34,2023-10-07
+FB-0297,Burkina Faso,Protection,Feedback,Community Meeting,Low,Yes,22,2023-06-23
+FB-0298,Mali,Shelter,Complaint,Suggestion Box,Low,Yes,26,2024-09-16
+FB-0299,Burkina Faso,WASH,Request,Hotline,Low,Yes,1,2023-08-09
+FB-0300,Niger,Nutrition,Suggestion,Suggestion Box,Low,Yes,45,2024-07-31
+FB-0301,Mali,Protection,Complaint,Hotline,Critical,Yes,20,2023-03-19
+FB-0302,Niger,Food Security,Feedback,Community Meeting,Medium,Yes,43,2023-08-12
+FB-0303,Mali,Food Security,Feedback,Hotline,High,No,,2024-09-29
+FB-0304,Chad,Nutrition,Complaint,Direct Staff,Low,Yes,44,2024-01-20
+FB-0305,Chad,Shelter,Complaint,Hotline,High,Yes,27,2023-10-20
+FB-0306,Burkina Faso,Nutrition,Suggestion,Community Meeting,High,Yes,3,2024-09-17
+FB-0307,Niger,Shelter,Complaint,Community Meeting,Low,Yes,21,2024-06-04
+FB-0308,Niger,Shelter,Feedback,Hotline,Low,Yes,40,2023-04-15
+FB-0309,Niger,Shelter,Complaint,Suggestion Box,Low,No,,2024-08-06
+FB-0310,Niger,Nutrition,Feedback,Direct Staff,Low,Yes,12,2024-08-30
+FB-0311,Mali,Nutrition,Complaint,Suggestion Box,High,Yes,18,2023-07-05
+FB-0312,Burkina Faso,WASH,Complaint,Hotline,Medium,Yes,35,2024-01-30
+FB-0313,Chad,Shelter,Complaint,Suggestion Box,Low,No,,2024-04-14
+FB-0314,Chad,Health,Complaint,Hotline,Medium,Yes,33,2023-03-19
+FB-0315,Burkina Faso,Food Security,Feedback,Hotline,Medium,Yes,10,2023-07-18
+FB-0316,Niger,Protection,Feedback,Direct Staff,Low,Yes,6,2024-06-05
+FB-0317,Chad,Protection,Complaint,Community Meeting,High,Yes,22,2023-05-09
+FB-0318,Burkina Faso,Health,Complaint,Suggestion Box,Low,Yes,19,2024-12-06
+FB-0319,Chad,Nutrition,Feedback,Hotline,Low,Yes,6,2024-11-27
+FB-0320,Burkina Faso,Shelter,Request,Hotline,Low,Yes,31,2024-03-04
+FB-0321,Mali,Protection,Complaint,Community Meeting,Critical,Yes,14,2024-09-27
+FB-0322,Mali,Shelter,Suggestion,Direct Staff,Low,No,,2024-10-30
+FB-0323,Niger,Food Security,Feedback,Hotline,Low,No,,2023-03-16
+FB-0324,Mali,WASH,Feedback,Suggestion Box,Medium,No,,2024-12-01
+FB-0325,Mali,WASH,Complaint,Hotline,High,No,,2024-01-16
+FB-0326,Mali,Health,Feedback,Direct Staff,Medium,Yes,33,2024-07-23
+FB-0327,Burkina Faso,Health,Complaint,Suggestion Box,High,No,,2024-12-12
+FB-0328,Chad,WASH,Feedback,Community Meeting,Low,Yes,42,2023-08-29
+FB-0329,Niger,WASH,Complaint,Suggestion Box,High,Yes,43,2024-10-20
+FB-0330,Burkina Faso,WASH,Feedback,Suggestion Box,High,Yes,10,2024-08-02
+FB-0331,Niger,Protection,Complaint,Suggestion Box,Low,Yes,11,2024-05-01
+FB-0332,Chad,Shelter,Suggestion,Suggestion Box,Low,Yes,28,2023-07-04
+FB-0333,Chad,Health,Complaint,Community Meeting,High,Yes,23,2023-12-21
+FB-0334,Chad,Protection,Feedback,Community Meeting,High,Yes,16,2023-02-06
+FB-0335,Chad,WASH,Complaint,Suggestion Box,Medium,Yes,45,2023-01-07
+FB-0336,Niger,WASH,Feedback,Direct Staff,Low,Yes,11,2023-05-06
+FB-0337,Burkina Faso,Health,Request,Suggestion Box,Low,Yes,45,2024-01-31
+FB-0338,Niger,Shelter,Complaint,Suggestion Box,High,Yes,2,2023-03-31
+FB-0339,Chad,Shelter,Request,Community Meeting,Low,Yes,29,2024-05-03
+FB-0340,Mali,Shelter,Request,Hotline,Low,Yes,14,2024-05-08
+FB-0341,Burkina Faso,Food Security,Request,Suggestion Box,Low,Yes,18,2024-11-11
+FB-0342,Mali,Health,Request,Suggestion Box,Low,Yes,17,2024-08-19
+FB-0343,Chad,WASH,Feedback,Hotline,Medium,Yes,43,2024-05-18
+FB-0344,Burkina Faso,Health,Complaint,Community Meeting,Medium,Yes,33,2024-02-24
+FB-0345,Niger,Nutrition,Feedback,Hotline,Low,No,,2023-02-03
+FB-0346,Niger,Protection,Feedback,Suggestion Box,Low,Yes,21,2024-10-17
+FB-0347,Burkina Faso,Nutrition,Complaint,Hotline,Medium,Yes,43,2024-09-14
+FB-0348,Niger,Nutrition,Feedback,Suggestion Box,Low,Yes,34,2024-09-09
+FB-0349,Niger,Nutrition,Request,Suggestion Box,Low,Yes,25,2024-11-07
+FB-0350,Mali,Nutrition,Request,Hotline,Medium,Yes,43,2024-03-28
+FB-0351,Niger,Protection,Complaint,Hotline,High,Yes,3,2023-03-31
+FB-0352,Niger,WASH,Complaint,Direct Staff,Low,Yes,27,2024-12-10
+FB-0353,Chad,Nutrition,Complaint,Hotline,Low,Yes,44,2023-07-16
+FB-0354,Mali,Health,Feedback,Community Meeting,Low,Yes,24,2024-07-27
+FB-0355,Niger,Nutrition,Suggestion,Suggestion Box,Low,Yes,33,2024-07-15
+FB-0356,Mali,Nutrition,Feedback,Hotline,Low,Yes,40,2023-09-13
+FB-0357,Chad,Protection,Complaint,Hotline,Critical,Yes,37,2023-11-25
+FB-0358,Chad,Protection,Complaint,Hotline,Medium,Yes,13,2024-11-02
+FB-0359,Niger,Food Security,Feedback,Community Meeting,Low,Yes,3,2023-11-22
+FB-0360,Burkina Faso,Shelter,Feedback,Suggestion Box,Low,Yes,34,2024-04-24
+FB-0361,Burkina Faso,Health,Feedback,Direct Staff,Low,No,,2024-06-10
+FB-0362,Chad,WASH,Request,Hotline,Medium,Yes,9,2024-03-28
+FB-0363,Mali,Shelter,Complaint,Direct Staff,Low,No,,2024-07-21
+FB-0364,Chad,Nutrition,Feedback,Community Meeting,High,Yes,26,2023-02-01
+FB-0365,Mali,Shelter,Feedback,Direct Staff,Medium,Yes,40,2024-11-26
+FB-0366,Mali,Shelter,Complaint,Hotline,Medium,No,,2024-07-17
+FB-0367,Chad,WASH,Suggestion,Suggestion Box,High,Yes,19,2023-05-08
+FB-0368,Burkina Faso,Shelter,Complaint,Hotline,High,No,,2023-06-09
+FB-0369,Niger,Food Security,Feedback,Direct Staff,Low,Yes,4,2023-03-21
+FB-0370,Mali,Health,Feedback,Direct Staff,High,Yes,16,2023-12-05
+FB-0371,Burkina Faso,WASH,Complaint,Direct Staff,High,Yes,25,2024-06-13
+FB-0372,Burkina Faso,Shelter,Complaint,Direct Staff,Low,Yes,44,2024-03-10
+FB-0373,Mali,WASH,Request,Direct Staff,Low,Yes,41,2023-01-21
+FB-0374,Mali,Shelter,Suggestion,Suggestion Box,High,Yes,45,2024-02-21
+FB-0375,Niger,WASH,Complaint,Direct Staff,Medium,Yes,15,2024-04-19
+FB-0376,Chad,Shelter,Feedback,Community Meeting,Medium,Yes,9,2024-12-27
+FB-0377,Niger,Protection,Request,Community Meeting,High,Yes,27,2023-08-14
+FB-0378,Burkina Faso,Protection,Complaint,Hotline,Medium,No,,2023-02-21
+FB-0379,Chad,WASH,Feedback,Hotline,Low,Yes,30,2023-05-06
+FB-0380,Chad,Food Security,Complaint,Community Meeting,High,Yes,5,2024-11-14
+FB-0381,Niger,WASH,Request,Hotline,Low,Yes,10,2023-08-13
+FB-0382,Chad,Shelter,Feedback,Community Meeting,Medium,No,,2023-08-24
+FB-0383,Burkina Faso,Protection,Feedback,Hotline,Medium,Yes,14,2024-05-06
+FB-0384,Chad,Nutrition,Feedback,Community Meeting,Low,Yes,35,2024-04-28
+FB-0385,Niger,Food Security,Complaint,Direct Staff,Medium,Yes,4,2024-08-11
+FB-0386,Niger,WASH,Request,Direct Staff,Low,No,,2024-01-22
+FB-0387,Chad,Nutrition,Feedback,Hotline,Medium,Yes,6,2023-01-31
+FB-0388,Burkina Faso,Health,Complaint,Suggestion Box,Low,Yes,29,2023-09-24
+FB-0389,Niger,Health,Feedback,Community Meeting,Low,No,,2023-06-25
+FB-0390,Chad,Health,Feedback,Suggestion Box,Low,Yes,24,2024-10-30
+FB-0391,Mali,WASH,Request,Suggestion Box,High,Yes,15,2024-07-05
+FB-0392,Mali,Shelter,Complaint,Community Meeting,Medium,Yes,9,2024-05-20
+FB-0393,Chad,Shelter,Feedback,Community Meeting,Medium,Yes,5,2023-12-19
+FB-0394,Burkina Faso,WASH,Complaint,Community Meeting,Low,Yes,19,2024-01-02
+FB-0395,Niger,Food Security,Complaint,Direct Staff,Low,Yes,4,2024-08-31
+FB-0396,Chad,Nutrition,Feedback,Community Meeting,Critical,Yes,2,2023-10-31
+FB-0397,Niger,Food Security,Feedback,Suggestion Box,Medium,No,,2024-12-04
+FB-0398,Mali,Protection,Request,Hotline,Low,Yes,7,2023-09-23
+FB-0399,Mali,Shelter,Complaint,Community Meeting,Low,No,,2023-07-08
+FB-0400,Niger,Nutrition,Feedback,Hotline,Low,Yes,37,2023-02-15
