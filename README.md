@@ -27,6 +27,14 @@ A comprehensive **MEAL (Monitoring, Evaluation, Accountability and Learning)** a
 | 01 | Achievement rate by sector (horizontal bar) | Mean achievement: **78.3%** |
 | 02 | Country × Sector heatmap | Conditional formatting by threshold |
 | 03 | Status distribution stacked bar | 45% On Track · 8% Delayed |
+## 🖼️ Capture d’écran du tableau de bord
+
+![image](https://github.com/user-attachments/assets/b41cf117-d065-4d55-b328-9efa517a5977)
+
+
+> Ce visuel présente la répartition des loyers moyens par ville, les évolutions mensuelles, le taux d’occupation et les comparatifs entre quartiers populaires et quartiers résidentiels à Ouagadougou et Bobo-Dioulasso.
+
+---
 
 ### Section 2 — Beneficiary Demographics
 | Fig | Analysis | Key Insight |
